@@ -1,0 +1,3818 @@
+{
+ "schema": 1,
+ "collections": [
+  {
+   "id": "Originals",
+   "names": {
+    "en": "Lumen Originals",
+    "es": "Lumen Originals",
+    "de": "Lumen Originals",
+    "fr": "Lumen Originals",
+    "it": "Lumen Originals",
+    "pt": "Lumen Originals"
+   },
+   "photos": [
+    {
+     "id": "lumen-01-whale-in-the-sunset-clouds",
+     "title": "Whale in the sunset clouds",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-01-whale-in-the-sunset-clouds/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-01-whale-in-the-sunset-clouds/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-02-red-sun-over-the-mountain",
+     "title": "Red sun over the mountain",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-02-red-sun-over-the-mountain/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-02-red-sun-over-the-mountain/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-03-floating-lighthouse",
+     "title": "Floating lighthouse",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-03-floating-lighthouse/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-03-floating-lighthouse/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-04-curious-red-panda",
+     "title": "Curious red panda",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-04-curious-red-panda/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-04-curious-red-panda/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.6,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-05-astronaut-in-the-wildflowers",
+     "title": "Astronaut in the wildflowers",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-05-astronaut-in-the-wildflowers/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-05-astronaut-in-the-wildflowers/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-06-glowing-mushroom-forest",
+     "title": "Glowing mushroom forest",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-06-glowing-mushroom-forest/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-06-glowing-mushroom-forest/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-07-cat-at-golden-hour",
+     "title": "Cat at golden hour",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-07-cat-at-golden-hour/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-07-cat-at-golden-hour/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-08-orange-umbrella-in-the-rain",
+     "title": "Orange umbrella in the rain",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-08-orange-umbrella-in-the-rain/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-08-orange-umbrella-in-the-rain/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-09-rainy-alley-in-kyoto",
+     "title": "Rainy alley in Kyoto",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-09-rainy-alley-in-kyoto/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-09-rainy-alley-in-kyoto/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-10-sleeping-arctic-fox",
+     "title": "Sleeping arctic fox",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-10-sleeping-arctic-fox/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-10-sleeping-arctic-fox/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-11-red-balloon-over-the-valley",
+     "title": "Red balloon over the valley",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-11-red-balloon-over-the-valley/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-11-red-balloon-over-the-valley/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.62,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-12-blue-dome-santorini",
+     "title": "Blue dome, Santorini",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-12-blue-dome-santorini/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-12-blue-dome-santorini/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-13-sunrise-over-misty-valleys",
+     "title": "Sunrise over misty valleys",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-13-sunrise-over-misty-valleys/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-13-sunrise-over-misty-valleys/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-14-coffee-on-a-rainy-day",
+     "title": "Coffee on a rainy day",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-14-coffee-on-a-rainy-day/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-14-coffee-on-a-rainy-day/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-15-sea-otter",
+     "title": "Sea otter",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-15-sea-otter/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-15-sea-otter/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-16-yellow-taxi-new-york",
+     "title": "Yellow taxi, New York",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-16-yellow-taxi-new-york/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-16-yellow-taxi-new-york/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-17-misty-london",
+     "title": "Misty London",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-17-misty-london/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-17-misty-london/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.35,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-18-robin-on-a-branch",
+     "title": "Robin on a branch",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-18-robin-on-a-branch/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-18-robin-on-a-branch/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-19-red-fox-in-the-snow",
+     "title": "Red fox in the snow",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-19-red-fox-in-the-snow/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-19-red-fox-in-the-snow/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-20-above-the-clouds",
+     "title": "Above the clouds",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-20-above-the-clouds/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-20-above-the-clouds/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-21-lone-bird",
+     "title": "Lone bird",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-21-lone-bird/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-21-lone-bird/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.8,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Travel",
+   "names": {
+    "en": "Travel",
+    "es": "Viajes",
+    "de": "Reisen",
+    "fr": "Voyages",
+    "it": "Viaggi",
+    "pt": "Viagens"
+   },
+   "photos": [
+    {
+     "id": "wm-53564827",
+     "title": "Kinkaku-ji, Kyoto",
+     "creator": "Martin Falbisoner",
+     "date": "2016",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kinkaku-ji_in_November_2016_-02.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-53564827/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-53564827/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "wm-95660829",
+     "title": "Midtown Manhattan at night",
+     "creator": "King of Hearts",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Midtown_Manhattan_from_Jersey_City_September_2020_HDR.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-95660829/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-95660829/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "wm-53618736",
+     "title": "Kiyomizu-dera, Kyoto",
+     "creator": "Martin Falbisoner",
+     "date": "2016",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-07.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-53618736/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-53618736/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.525,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-79286170",
+     "title": "Venice awakes",
+     "creator": "Benh Lieu Song",
+     "date": "2015",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Venice_awakes_(20618763815).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-79286170/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-79286170/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-155327999",
+     "title": "Manhattan Bridge from Dumbo",
+     "creator": "Superbass",
+     "date": "2024",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:2024-11-17-Manhattan_Bridge_Dumbo-0407.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-155327999/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-155327999/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-53626288",
+     "title": "Dotonbori, Osaka",
+     "creator": "Martin Falbisoner",
+     "date": "2016",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-53626288/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-53626288/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-2958985",
+     "title": "Arc de Triomphe, Paris",
+     "creator": "Benh LIEU SONG",
+     "date": "2007",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Arc_Triomphe.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-2958985/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-2958985/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-27909262",
+     "title": "Temple of Poseidon, Sounion",
+     "creator": "A.Savin",
+     "date": "2013",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Attica_06-13_Sounion_20_Temple_of_Poseidon.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-27909262/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-27909262/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-32273759",
+     "title": "Swallow's Nest, Crimea",
+     "creator": "A.Savin",
+     "date": "2014",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Crimea_South_Coast_04-14_img10_Gaspra_Swallows_Nest.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-32273759/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-32273759/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-96559561",
+     "title": "Château de Chillon",
+     "creator": "Giles Laurent",
+     "date": "2020",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-96559561/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-96559561/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-82829819",
+     "title": "Ali Qapu, Isfahan",
+     "creator": "Amir Pashaei",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:%C4%80l%C4%AB_Q%C4%81p%C5%AB_in_golden_time.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-82829819/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-82829819/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-140056707",
+     "title": "Saint Patrick's Street, Valletta",
+     "creator": "Rhododendrites",
+     "date": "2023",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Saint_Patrick%27s_Street_Valletta_(70394).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-140056707/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-140056707/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-94268097",
+     "title": "Peacock Gate, Jaipur",
+     "creator": "Jakub Hałun",
+     "date": "2019",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Portal,_Pitam_Niwas_Chowk,_City_Palace,_Jaipur,_20191218_1000_9059.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-94268097/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-94268097/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-44813910",
+     "title": "Berlin TV Tower",
+     "creator": "Thomas Wolf",
+     "date": "2015",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Berliner_Fernsehturm_(Detailansicht).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-44813910/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-44813910/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-68632688",
+     "title": "Lynn Canyon bridge, Vancouver",
+     "creator": "Diego Delso",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Puente_colgante_sobre_el_ca%C3%B1%C3%B3n_Lynn,_Vancouver,_Canad%C3%A1,_2017-08-14,_DD_10.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-68632688/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-68632688/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.467,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-4165234",
+     "title": "Empire State Building",
+     "creator": "Daniel Schwen",
+     "date": "2008",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_pano.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-4165234/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-4165234/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-53626659",
+     "title": "Okayama Castle",
+     "creator": "Martin Falbisoner",
+     "date": "2016",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Okayama_Castle,_November_2016_-02.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-53626659/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-53626659/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-184591470",
+     "title": "Torre Glòries, Barcelona",
+     "creator": "Alvesgaspar",
+     "date": "2015",
+     "source": "wikimedia",
+     "license": "CC0",
+     "page": "https://commons.wikimedia.org/wiki/File:Barcelona_March_2015-2b.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-184591470/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-184591470/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-55960809",
+     "title": "Nara Park in autumn",
+     "creator": "Martin Falbisoner",
+     "date": "2016",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Nara_Park,_November_2016.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-55960809/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-55960809/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-44448489",
+     "title": "Frankfurt skyline",
+     "creator": "Christian Wolf",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main_2015.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-44448489/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-44448489/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-41749801",
+     "title": "Tour Saint-Jacques, Paris",
+     "creator": "Benh LIEU SONG",
+     "date": "2015",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Tour_Saint-Jacques_BLS.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-41749801/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-41749801/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-80892051",
+     "title": "Devil's Bridge, Schöllenen",
+     "creator": "Wolfgang Moroder",
+     "date": "2019",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Die_Sch%C3%B6llenen_Schlucht_mit_Teufelsbr%C3%BCcke_im_schweizerischen_Kanton_Uri.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-80892051/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-80892051/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.294,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Nature",
+   "names": {
+    "en": "Nature",
+    "es": "Naturaleza",
+    "de": "Natur",
+    "fr": "Nature",
+    "it": "Natura",
+    "pt": "Natureza"
+   },
+   "photos": [
+    {
+     "id": "wm-111875352",
+     "title": "Matterhorn from Grindjisee",
+     "creator": "Roy Egloff",
+     "date": "2021",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:CH.VS.Zermatt_Sunnegga_Grindjisee_Matterhorn_9034_16x9-R_16K.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-111875352/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-111875352/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "wm-95911949",
+     "title": "Lac des Plagnes, Alps",
+     "creator": "Krzysztof Golik",
+     "date": "2020",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Lac_des_Plagnes_07.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-95911949/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-95911949/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "wm-73714927",
+     "title": "Puez-Odle, Dolomites",
+     "creator": "Wolfgang Moroder",
+     "date": "2017",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Saslonch_Pizes_de_Cir_Chedul_Gherdeina.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-73714927/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-73714927/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-37281052",
+     "title": "Seljalandsfoss, Iceland",
+     "creator": "Diego Delso",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Seljalandsfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_189-191_HDR.JPG",
+     "image": "https://fondos.fungicode.io/img/wm-37281052/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-37281052/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-84482623",
+     "title": "Multnomah Falls, Oregon",
+     "creator": "King of Hearts",
+     "date": "2019",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Multnomah_Falls_October_2019_stack.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-84482623/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-84482623/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-58449298",
+     "title": "Autumn forest, Bruderwald",
+     "creator": "Ermell",
+     "date": "2015",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Bruderwald-Herbst-026375.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-58449298/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-58449298/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-135625406",
+     "title": "Serra da Mantiqueira, Brazil",
+     "creator": "Acauã Heuruel Cabral",
+     "date": "2023",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Serra_da_Mantiqueira_-_Acau%C3%A3_Cabral_(08).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-135625406/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-135625406/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-185204293",
+     "title": "Loch Tummel, Scotland",
+     "creator": "Eric Kilby",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Foggy_Reflections_-_Loch_Tummel.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-185204293/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-185204293/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-32509804",
+     "title": "Demerdzhi, Crimea",
+     "creator": "Башкатов Віталій",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BA%D0%B5%D0%BB%D1%96_%D0%94%D0%B5%D0%BC%D0%B5%D1%80%D0%B4%D0%B6%D1%96.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-32509804/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-32509804/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-36612630",
+     "title": "Dynjandi, Iceland",
+     "creator": "Diego Delso",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Cascada_Dynjandi,_Vestfir%C3%B0ir,_Islandia,_2014-08-14,_DD_136-138_HDR.JPG",
+     "image": "https://fondos.fungicode.io/img/wm-36612630/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-36612630/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-127409121",
+     "title": "New snow in Tuntorp, Sweden",
+     "creator": "W.carter",
+     "date": "2023",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:New_snow_on_young_oaks_in_Tuntorp.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-127409121/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-127409121/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-85063306",
+     "title": "Three Sisters, Blue Mountains",
+     "creator": "Dietmar Rabich",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Blue_Mountains_National_Park_(AU),_Three_Sisters_--_2019_--_1987-9.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-85063306/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-85063306/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-119553328",
+     "title": "Chara Sands, Siberia",
+     "creator": "Ellebedeva",
+     "date": "2022",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Chara_Sands_before_it_rains_-_Kalarsky_District,_Zabaykalsky_Krai,_Siberia.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-119553328/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-119553328/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-73750624",
+     "title": "Victoria Falls",
+     "creator": "Diego Delso",
+     "date": "2018",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-73750624/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-73750624/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-80438340",
+     "title": "Lake Louise, Canada",
+     "creator": "Chensiyuan",
+     "date": "2019",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-80438340/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-80438340/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-81063742",
+     "title": "Oak in autumn",
+     "creator": "Ermell",
+     "date": "2018",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Hain_Eiche_Herbst_121696.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-81063742/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-81063742/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-69171555",
+     "title": "Fog in the Bruderwald",
+     "creator": "Ermell",
+     "date": "2007",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Bruderwald_Nebel_286411.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-69171555/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-69171555/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-181641872",
+     "title": "Tea fields, Nilgiris",
+     "creator": "Timothy A. Gonsalves",
+     "date": "2025",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Vegetables_Tea_Fields_Nilgiris_Nov25_A7CR_09820-4_HDR1.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-181641872/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-181641872/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-149999844",
+     "title": "Mallalli Falls, India",
+     "creator": "Timothy A. Gonsalves",
+     "date": "2024",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Coral_Tree_Monsoon_Mallalli_Falls_Hassan_Jun24_A7CR_01575.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-149999844/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-149999844/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-47029744",
+     "title": "Langkofel group, Dolomites",
+     "creator": "Wolfgang Moroder",
+     "date": "2016",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Langkofel_group_from_the_Sella_pass_2016.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-47029744/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-47029744/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-169013970",
+     "title": "Teichschlucht, Black Forest",
+     "creator": "Dietmar Rabich",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:G%C3%BCtenbach,_Teichschlucht_--_2025_--_7668.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-169013970/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-169013970/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-40283886",
+     "title": "Barycz Valley, Poland",
+     "creator": "Bartosz Dworski",
+     "date": "2015",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Dolina_Baryczy_1.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-40283886/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-40283886/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-42751692",
+     "title": "Mealt Falls, Isle of Skye",
+     "creator": "Colin",
+     "date": "2015",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Mealt_Waterfall_with_Kilt_Rock,_Isle_of_Skye.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-42751692/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-42751692/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.422,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Wildlife",
+   "names": {
+    "en": "Wildlife",
+    "es": "Animales",
+    "de": "Tierwelt",
+    "fr": "Faune",
+    "it": "Animali",
+    "pt": "Animais"
+   },
+   "photos": [
+    {
+     "id": "wm-121188762",
+     "title": "Lion, Serengeti",
+     "creator": "Giles Laurent",
+     "date": "2020",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:011_The_lion_king_Tryggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-121188762/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-121188762/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "wm-72784453",
+     "title": "Dolphin, Eilat",
+     "creator": "טל שמע",
+     "date": "2017",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Eilat_Dolphin_Reef_(3).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-72784453/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-72784453/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "wm-11412320",
+     "title": "Snow leopard",
+     "creator": "Tambako The Jaguar, Niabot",
+     "date": "2009",
+     "source": "wikimedia",
+     "license": "CC BY-SA 2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Snow_leopard_portrait-2010-07-09.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-11412320/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-11412320/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-121087154",
+     "title": "Giraffe, Lake Manyara",
+     "creator": "Giles Laurent",
+     "date": "2020",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:006_Giraffe_portrait_in_the_Lake_Manyara_National_Park_Photo_by_Giles_Laurent.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-121087154/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-121087154/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-123918350",
+     "title": "Grey wolf",
+     "creator": "Clément Bardot",
+     "date": "2021",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Loup_gris_(Canis_lupus_).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-123918350/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-123918350/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-148651951",
+     "title": "Lilac-breasted roller, Kruger",
+     "creator": "Charles J. Sharp",
+     "date": "2024",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Lilac-breasted_roller_(Coracias_caudatus)_Kruger.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-148651951/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-148651951/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-59393959",
+     "title": "Humpback whale",
+     "creator": "Jérémie Silvestro",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Baleine_%C3%A0_bosse_et_son_baleineau_2.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-59393959/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-59393959/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-164917379",
+     "title": "Masked trogon",
+     "creator": "Charles J. Sharp",
+     "date": "2025",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Masked_trogon_(Trogon_personatus_temperatus)_male_San_Isidro.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-164917379/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-164917379/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-150935232",
+     "title": "Zanzibar red colobus",
+     "creator": "Diego Delso",
+     "date": "2024",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Colobo_rojo_de_Zanz%C3%ADbar_(Piliocolobus_kirkii),_parque_nacional_de_la_Bah%C3%ADa_Jozani_Chwaka,_Zanz%C3%ADbar,_Tanzania,_2024-06-02,_DD_17.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-150935232/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-150935232/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-190743548",
+     "title": "Alpine ibex",
+     "creator": "Bernd Thaller",
+     "date": "2014",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Steinbock_14962940265_(cropped).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-190743548/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-190743548/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-68003968",
+     "title": "White-tailed eagle",
+     "creator": "Christoph Müller",
+     "date": "2018",
+     "source": "wikimedia",
+     "license": "CC BY 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:White_tailed_eagle_raftsund_square_crop.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-68003968/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-68003968/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-151059936",
+     "title": "Serval, Tarangire",
+     "creator": "Diego Delso",
+     "date": "2024",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Serval_(Leptailurus_serval),_parque_nacional_de_Tarangire,_Tanzania,_2024-05-25,_DD_54.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-151059936/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-151059936/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-98068067",
+     "title": "Major Mitchell's cockatoo",
+     "creator": "JJ Harrison",
+     "date": "2020",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Major_Mitchell%27s_Cockatoo_-_Mt_Grenfell.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-98068067/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-98068067/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-25471921",
+     "title": "Black rhinos, Etosha",
+     "creator": "Yathin S Krishnappa",
+     "date": "2013",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Diceros_bicornis_(Etosha).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-25471921/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-25471921/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-81001417",
+     "title": "Geoffroy's tamarin",
+     "creator": "Charles J. Sharp",
+     "date": "2019",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Geoffroy%27s_tamarin_(Saguinus_geoffroyi)_2.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-81001417/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-81001417/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-134376191",
+     "title": "Olive-bellied sunbird",
+     "creator": "Giles Laurent",
+     "date": "2022",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:001_Olive-bellied_Sunbird_starting_to_fly_at_Kibale_National_Park_Photo_by_Giles_Laurent.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-134376191/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-134376191/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-59312626",
+     "title": "Fennec foxes",
+     "creator": "Anass ERRIHANI",
+     "date": "2012",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_Peek.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-59312626/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-59312626/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-86099005",
+     "title": "Herring gull",
+     "creator": "Stephan Sprinz",
+     "date": "2018",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Angreifende_Silberm%C3%B6we_auf_Spiekeroog,_Nationalpark_nieders%C3%A4chsisches_Wattenmeer_-_edited.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-86099005/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-86099005/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-180971510",
+     "title": "Black-backed jackal",
+     "creator": "Giles Laurent",
+     "date": "2025",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:136_Black-backed_jackal_hunting_for_food_at_Cape_cross_Photo_by_Giles_Laurent.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-180971510/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-180971510/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-18597260",
+     "title": "Hamadryas baboons",
+     "creator": "Till Niermann",
+     "date": "2012",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Papio_hamadryas_Cologne_Zoo.JPG",
+     "image": "https://fondos.fungicode.io/img/wm-18597260/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-18597260/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-109131929",
+     "title": "Crested tern",
+     "creator": "JJ Harrison",
+     "date": "2021",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Crested_Tern_-_Mortimer_Bay.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-109131929/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-109131929/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-142133398",
+     "title": "Alpine chough",
+     "creator": "Giles Laurent",
+     "date": "2021",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:013_Wild_Alpine_chough_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-142133398/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-142133398/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "SeaSky",
+   "names": {
+    "en": "Sea & sky",
+    "es": "Mar y cielo",
+    "de": "Meer & Himmel",
+    "fr": "Mer et ciel",
+    "it": "Mare e cielo",
+    "pt": "Mar e céu"
+   },
+   "photos": [
+    {
+     "id": "wm-53660226",
+     "title": "Northern lights, Estonia",
+     "creator": "Kristian Pikner",
+     "date": "2015",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Virmalised_18.03.15_(4).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-53660226/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-53660226/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "wm-193367311",
+     "title": "Nosy Iranja, Madagascar",
+     "creator": "Diego Delso",
+     "date": "2025",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Nosy_Iranja,_Madagascar,_2025-09-17,_DD_21.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-193367311/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-193367311/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "wm-179030861",
+     "title": "Ilhéus da Ribeira da Janela, Madeira",
+     "creator": "Dietmar Rabich",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Ribeira_da_Janela_(Madeira,_Portugal),_Ilheus_da_Rib_--_2025_--_1582.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-179030861/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-179030861/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-61797653",
+     "title": "Aurora over Lofoten",
+     "creator": "Johannes Groll",
+     "date": "2017",
+     "source": "wikimedia",
+     "license": "CC0",
+     "page": "https://commons.wikimedia.org/wiki/File:Lofoten,_Norway_(Unsplash).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-61797653/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-61797653/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-186394636",
+     "title": "Lighthouse, De Cocksdorp",
+     "creator": "Dietmar Rabich",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:De_Cocksdorp_(NL),_Leuchtturm_--_2026_--_0305.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-186394636/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-186394636/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-58442111",
+     "title": "Ogoy Island, Lake Baikal",
+     "creator": "Sergey Pesterev",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Ogoy_island_in_winter.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-58442111/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-58442111/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-175969753",
+     "title": "Padar Island, Komodo",
+     "creator": "Jakub Hałun",
+     "date": "2025",
+     "source": "wikimedia",
+     "license": "CC BY 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Padar_Island,_Komodo_National_Park,_Indonesia,_20250822_0929_2659.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-175969753/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-175969753/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-48807248",
+     "title": "Sugarloaf sunrise, Rio",
+     "creator": "Donatas Dabravolskas",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Sugarloaf_Sunrise_2.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-48807248/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-48807248/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-53879764",
+     "title": "Chimney Rock, Point Reyes",
+     "creator": "King of Hearts",
+     "date": "2016",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Chimney_Rock_Trail_Point_Reyes_December_2016_panorama_1.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-53879764/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-53879764/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-69219810",
+     "title": "Ice sails, Lake Baikal",
+     "creator": "Discoverynn",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D0%B8%D0%BA%D0%B8.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-69219810/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-69219810/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-109541262",
+     "title": "Second Beach, Olympic",
+     "creator": "King of Hearts",
+     "date": "2018",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Second_Beach_Olympic_June_2018_008.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-109541262/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-109541262/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-151461592",
+     "title": "Aurora pillar over Brastad",
+     "creator": "W.carter",
+     "date": "2024",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Multicolored_aurora_borealis_pillar_over_Brastad.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-151461592/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-151461592/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-81083793",
+     "title": "Dingle Lighthouse, Ireland",
+     "creator": "Superbass",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:2019-07-20-Dingle_Lighthouse-0673.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-81083793/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-81083793/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-5852946",
+     "title": "North Point sunrise",
+     "creator": "Dori",
+     "date": "2009",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:North_Point_Sunrise_20090201_0622.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-5852946/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-5852946/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-79147005",
+     "title": "Chalk cliffs of Jasmund",
+     "creator": "Moahim",
+     "date": "2018",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:2019_-_Nationalpark_Jasmund_-_03.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-79147005/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-79147005/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-135355386",
+     "title": "Summer clouds",
+     "creator": "W.carter",
+     "date": "2023",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Summer_clouds_over_Tuntorp_3.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-135355386/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-135355386/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-62984333",
+     "title": "Pustkowo beach, Poland",
+     "creator": "Jar.ciurus",
+     "date": "2017",
+     "source": "wikimedia",
+     "license": "CC BY 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Plaza_Pustkowo_1.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-62984333/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-62984333/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-151478344",
+     "title": "Aurora and Perseids",
+     "creator": "Stephan Sprinz",
+     "date": "2024",
+     "source": "wikimedia",
+     "license": "CC BY 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Aurora_and_perseids.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-151478344/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-151478344/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-113463249",
+     "title": "Coast near Eiði, Faroe Islands",
+     "creator": "Sanshiro Kubota",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY 2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Lonely_house_on_the_coast_near_Ei%C3%B0i_-_Faroe_Islands_(50413406426).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-113463249/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-113463249/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-64352825",
+     "title": "Sunset on Aresquiers beach",
+     "creator": "Christian Ferrer",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Sunset_on_the_Aresquiers_beach.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-64352825/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-64352825/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-126844856",
+     "title": "Peninsula on Lake Debar",
+     "creator": "Dean Lazarevski, Aristea",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB_%D0%BF%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%B2%D0%BE_%D0%94%D0%B5%D0%B1%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D1%82%D0%BE_%D0%95%D0%B7%D0%B5%D1%80%D0%BE.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-126844856/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-126844856/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-37344897",
+     "title": "Dyrhólaey, Iceland",
+     "creator": "Diego Delso",
+     "date": "",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Dyrh%C3%B3laey,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_140.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-37344897/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-37344897/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Japan",
+   "names": {
+    "en": "Japan",
+    "es": "Japón",
+    "de": "Japan",
+    "fr": "Japon",
+    "it": "Giappone",
+    "pt": "Japão"
+   },
+   "photos": [
+    {
+     "id": "met-55433",
+     "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake",
+     "creator": "Utagawa Hiroshige",
+     "date": "1857",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/55433",
+     "image": "https://fondos.fungicode.io/img/met-55433/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-55433/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "met-56689",
+     "title": "Kinryūsan Temple at Asakusa",
+     "creator": "Utagawa Hiroshige",
+     "date": "1856",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/56689",
+     "image": "https://fondos.fungicode.io/img/met-56689/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-56689/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "met-37093",
+     "title": "Fireworks at Ryōgoku Bridge",
+     "creator": "Utagawa Hiroshige",
+     "date": "1858",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/37093",
+     "image": "https://fondos.fungicode.io/img/met-37093/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-37093/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-56931",
+     "title": "Nihon Embankment at Yoshiwara",
+     "creator": "Utagawa Hiroshige",
+     "date": "1857",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/56931",
+     "image": "https://fondos.fungicode.io/img/met-56931/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-56931/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-37282",
+     "title": "Azuma Bridge",
+     "creator": "Utagawa Hiroshige",
+     "date": "1857",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/37282",
+     "image": "https://fondos.fungicode.io/img/met-37282/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-37282/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-55095",
+     "title": "Moon-Viewing Location",
+     "creator": "Utagawa Hiroshige",
+     "date": "1857",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/55095",
+     "image": "https://fondos.fungicode.io/img/met-55095/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-55095/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-36542",
+     "title": "Minowa, Kanasugi at Mikawashima",
+     "creator": "Utagawa Hiroshige",
+     "date": "snake year 1857",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/36542",
+     "image": "https://fondos.fungicode.io/img/met-36542/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-36542/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.434,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-55733",
+     "title": "Jūmantsubo Plain at Fukagawa Susaki",
+     "creator": "Utagawa Hiroshige",
+     "date": "1856",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/55733",
+     "image": "https://fondos.fungicode.io/img/met-55733/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-55733/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-53681",
+     "title": "Plum Garden at Kamata",
+     "creator": "Utagawa Hiroshige",
+     "date": "1857 (Ansei 4), 2nd month",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/53681",
+     "image": "https://fondos.fungicode.io/img/met-53681/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-53681/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-37096",
+     "title": "Maples at Mama",
+     "creator": "Utagawa Hiroshige",
+     "date": "ca. 1857",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/37096",
+     "image": "https://fondos.fungicode.io/img/met-37096/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-37096/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-36541",
+     "title": "The Tanabata Festival in the Flourishing City",
+     "creator": "Utagawa Hiroshige",
+     "date": "1857 (Ansei 4), 7th month",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/36541",
+     "image": "https://fondos.fungicode.io/img/met-36541/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-36541/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-36539",
+     "title": "Pilgrimage to the Torinomachi Festival across the Ricefields of Asakusa",
+     "creator": "Utagawa Hiroshige",
+     "date": "1857 (Ansei 4), 11th month",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/36539",
+     "image": "https://fondos.fungicode.io/img/met-36539/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-36539/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.375,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-55712",
+     "title": "Ommayagashi, Sumida River",
+     "creator": "Utagawa Hiroshige",
+     "date": "ca. 1857",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/55712",
+     "image": "https://fondos.fungicode.io/img/met-55712/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-55712/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-36543",
+     "title": "The Suijin Temple Grove, Uchikawa, and the Village of Sekiya",
+     "creator": "Utagawa Hiroshige",
+     "date": "8th month 1857",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/36543",
+     "image": "https://fondos.fungicode.io/img/met-36543/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-36543/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.559,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-36491",
+     "title": "Under the Wave off Kanagawa",
+     "creator": "Katsushika Hokusai",
+     "date": "ca. 1830–32",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/36491",
+     "image": "https://fondos.fungicode.io/img/met-36491/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-36491/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-36490",
+     "title": "South Wind, Clear Sky",
+     "creator": "Katsushika Hokusai",
+     "date": "ca. 1830–32",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/36490",
+     "image": "https://fondos.fungicode.io/img/met-36490/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-36490/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-36492",
+     "title": "Storm below Mount Fuji",
+     "creator": "Katsushika Hokusai",
+     "date": "ca. 1830–32",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/36492",
+     "image": "https://fondos.fungicode.io/img/met-36492/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-36492/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Landscapes",
+   "names": {
+    "en": "Landscapes",
+    "es": "Paisajes",
+    "de": "Landschaften",
+    "fr": "Paysages",
+    "it": "Paesaggi",
+    "pt": "Paisagens"
+   },
+   "photos": [
+    {
+     "id": "met-436535",
+     "title": "Wheat Field with Cypresses",
+     "creator": "Vincent van Gogh",
+     "date": "1889",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/436535",
+     "image": "https://fondos.fungicode.io/img/met-436535/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-436535/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "met-437980",
+     "title": "Cypresses",
+     "creator": "Vincent van Gogh",
+     "date": "1889",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/437980",
+     "image": "https://fondos.fungicode.io/img/met-437980/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-437980/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "met-10154",
+     "title": "The Rocky Mountains, Lander's Peak",
+     "creator": "Albert Bierstadt",
+     "date": "1863",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/10154",
+     "image": "https://fondos.fungicode.io/img/met-10154/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-10154/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-10481",
+     "title": "Heart of the Andes",
+     "creator": "Frederic Edwin Church",
+     "date": "1859",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/10481",
+     "image": "https://fondos.fungicode.io/img/met-10481/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-10481/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-10497",
+     "title": "View",
+     "creator": "Thomas Cole",
+     "date": "1836",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/10497",
+     "image": "https://fondos.fungicode.io/img/met-10497/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-10497/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-10150",
+     "title": "Merced River, Yosemite Valley",
+     "creator": "Albert Bierstadt",
+     "date": "1866",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/10150",
+     "image": "https://fondos.fungicode.io/img/met-10150/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-10150/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-10149",
+     "title": "Canadian Rockies",
+     "creator": "Albert Bierstadt",
+     "date": "ca. 1889",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/10149",
+     "image": "https://fondos.fungicode.io/img/met-10149/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-10149/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-10158",
+     "title": "Sunrise on the Matterhorn",
+     "creator": "Albert Bierstadt",
+     "date": "after 1875",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/10158",
+     "image": "https://fondos.fungicode.io/img/met-10158/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-10158/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-10152",
+     "title": "Nevada Falls, Yosemite",
+     "creator": "Albert Bierstadt",
+     "date": "1872 or 1873",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/10152",
+     "image": "https://fondos.fungicode.io/img/met-10152/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-10152/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-10501",
+     "title": "View on the Catskill—Early Autumn",
+     "creator": "Thomas Cole",
+     "date": "1836–37",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/10501",
+     "image": "https://fondos.fungicode.io/img/met-10501/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-10501/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-10499",
+     "title": "The Titan's Goblet",
+     "creator": "Thomas Cole",
+     "date": "1833",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/10499",
+     "image": "https://fondos.fungicode.io/img/met-10499/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-10499/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-437853",
+     "title": "Venice",
+     "creator": "Joseph Mallord William Turner",
+     "date": "ca. 1835",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/437853",
+     "image": "https://fondos.fungicode.io/img/met-437853/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-437853/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.501,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-10500",
+     "title": "A View near Tivoli",
+     "creator": "Thomas Cole",
+     "date": "1832",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/10500",
+     "image": "https://fondos.fungicode.io/img/met-10500/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-10500/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.613,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-816789",
+     "title": "Sky – Northern Cuba",
+     "creator": "Charles Dewolf Brownell",
+     "date": "ca. 1853–66",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/816789",
+     "image": "https://fondos.fungicode.io/img/met-816789/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-816789/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Botanical",
+   "names": {
+    "en": "Botanical",
+    "es": "Botánica",
+    "de": "Botanik",
+    "fr": "Botanique",
+    "it": "Botanica",
+    "pt": "Botânica"
+   },
+   "photos": [
+    {
+     "id": "met-36728",
+     "title": "Black-naped Oriole Perched on a Stem of Rose Mallow",
+     "creator": "Utagawa Hiroshige",
+     "date": "ca. 1834",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/36728",
+     "image": "https://fondos.fungicode.io/img/met-36728/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-36728/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "met-36730",
+     "title": "Camellia and Finch",
+     "creator": "Utagawa Hiroshige",
+     "date": "ca. 1840",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/36730",
+     "image": "https://fondos.fungicode.io/img/met-36730/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-36730/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "met-36731",
+     "title": "A Wren and Chrysanthemums",
+     "creator": "Utagawa Hiroshige",
+     "date": "ca. 1830",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/36731",
+     "image": "https://fondos.fungicode.io/img/met-36731/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-36731/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-36735",
+     "title": "Hibiscus Mutabilis and Long-Tailed Bird",
+     "creator": "Utagawa Hiroshige",
+     "date": "ca. 1842",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/36735",
+     "image": "https://fondos.fungicode.io/img/met-36735/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-36735/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-56698",
+     "title": "Blue Bird",
+     "creator": "Utagawa Hiroshige",
+     "date": "",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/56698",
+     "image": "https://fondos.fungicode.io/img/met-56698/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-56698/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-56942",
+     "title": "Warbler on a Plum Branch",
+     "creator": "Utagawa Hiroshige",
+     "date": "ca. 1835",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/56942",
+     "image": "https://fondos.fungicode.io/img/met-56942/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-56942/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-56944",
+     "title": "Swallows and Budding Wild Cherry",
+     "creator": "Utagawa Hiroshige",
+     "date": "ca. 1835",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/56944",
+     "image": "https://fondos.fungicode.io/img/met-56944/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-56944/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-56945",
+     "title": "A Bluebird and Poppies",
+     "creator": "Utagawa Hiroshige",
+     "date": "1832–34",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/56945",
+     "image": "https://fondos.fungicode.io/img/met-56945/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-56945/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-36720",
+     "title": "Egrets amid Irises and Grasses",
+     "creator": "Utagawa Hiroshige",
+     "date": "ca. 1830s–1842",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/36720",
+     "image": "https://fondos.fungicode.io/img/met-36720/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-36720/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-697703",
+     "title": "Gloriosa Superba",
+     "creator": "Pierre Joseph Redouté",
+     "date": "ca. 1810",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/697703",
+     "image": "https://fondos.fungicode.io/img/met-697703/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-697703/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-762055",
+     "title": "‘Empress Josephine’ or Frankfort Rose",
+     "creator": "Pierre Joseph Redouté",
+     "date": "1817–24",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/762055",
+     "image": "https://fondos.fungicode.io/img/met-762055/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-762055/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-762064",
+     "title": "Crown Imperial",
+     "creator": "Pierre Joseph Redouté",
+     "date": "1802–16",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/762064",
+     "image": "https://fondos.fungicode.io/img/met-762064/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-762064/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-385749",
+     "title": "Winged passionflower",
+     "creator": "Sydenham Teak Edwards",
+     "date": "1799",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/385749",
+     "image": "https://fondos.fungicode.io/img/met-385749/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-385749/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-395105",
+     "title": "Hyacinths",
+     "creator": "Thomas Warner",
+     "date": "June 1, 1801",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/395105",
+     "image": "https://fondos.fungicode.io/img/met-395105/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-395105/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-395106",
+     "title": "The Blue Egyptian Water Lily",
+     "creator": "Joseph Constantine Stadler",
+     "date": "September 11, 1804",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/395106",
+     "image": "https://fondos.fungicode.io/img/met-395106/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-395106/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "met-838375",
+     "title": "Botanical Painting: Dianthus",
+     "creator": "Unknown artist",
+     "date": "ca. 1630",
+     "source": "met",
+     "license": "Public domain",
+     "page": "https://www.metmuseum.org/art/collection/search/838375",
+     "image": "https://fondos.fungicode.io/img/met-838375/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/met-838375/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Space",
+   "names": {
+    "en": "Space",
+    "es": "Espacio",
+    "de": "Weltraum",
+    "fr": "Espace",
+    "it": "Spazio",
+    "pt": "Espaço"
+   },
+   "photos": [
+    {
+     "id": "nasa-carina_nebula",
+     "title": "Cosmic Cliffs, Carina Nebula",
+     "creator": "NASA, ESA, CSA, STScI",
+     "date": "2022",
+     "source": "nasa",
+     "license": "Public domain",
+     "page": "https://images.nasa.gov/details/carina_nebula",
+     "image": "https://fondos.fungicode.io/img/nasa-carina_nebula/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/nasa-carina_nebula/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.501,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "nasa-southern_ring_nebula",
+     "title": "Southern Ring Nebula",
+     "creator": "NASA, ESA, CSA, STScI",
+     "date": "2022",
+     "source": "nasa",
+     "license": "Public domain",
+     "page": "https://images.nasa.gov/details/southern_ring_nebula",
+     "image": "https://fondos.fungicode.io/img/nasa-southern_ring_nebula/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/nasa-southern_ring_nebula/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.499,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "nasa-GSFC_20171208_Archive_e000842",
+     "title": "Pillars of Creation",
+     "creator": "NASA, ESA, and the Hubble Heritage Team (STScI/AURA)",
+     "date": "2017",
+     "source": "nasa",
+     "license": "Public domain",
+     "page": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000842",
+     "image": "https://fondos.fungicode.io/img/nasa-GSFC_20171208_Archive_e000842/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/nasa-GSFC_20171208_Archive_e000842/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "nasa-GSFC_20171208_Archive_e002064",
+     "title": "Mystic Mountain",
+     "creator": "NASA, ESA, and M. Livio and the Hubble 20th Anniversary Team (STScI)",
+     "date": "2017",
+     "source": "nasa",
+     "license": "Public domain",
+     "page": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002064",
+     "image": "https://fondos.fungicode.io/img/nasa-GSFC_20171208_Archive_e002064/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/nasa-GSFC_20171208_Archive_e002064/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "nasa-PIA03606",
+     "title": "Crab Nebula",
+     "creator": "NASA/ESA/JPL/Arizona State Univ.",
+     "date": "2005",
+     "source": "nasa",
+     "license": "Public domain",
+     "page": "https://images.nasa.gov/details/PIA03606",
+     "image": "https://fondos.fungicode.io/img/nasa-PIA03606/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/nasa-PIA03606/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "nasa-PIA17172",
+     "title": "The Day the Earth Smiled",
+     "creator": "NASA/JPL-Caltech/SSI",
+     "date": "2013",
+     "source": "nasa",
+     "license": "Public domain",
+     "page": "https://images.nasa.gov/details/PIA17172",
+     "image": "https://fondos.fungicode.io/img/nasa-PIA17172/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/nasa-PIA17172/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "nasa-as17-148-22727",
+     "title": "The Blue Marble",
+     "creator": "NASA",
+     "date": "1972",
+     "source": "nasa",
+     "license": "Public domain",
+     "page": "https://images.nasa.gov/details/as17-148-22727",
+     "image": "https://fondos.fungicode.io/img/nasa-as17-148-22727/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/nasa-as17-148-22727/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "nasa-as08-14-2383",
+     "title": "Earthrise",
+     "creator": "NASA",
+     "date": "1968",
+     "source": "nasa",
+     "license": "Public domain",
+     "page": "https://images.nasa.gov/details/as08-14-2383",
+     "image": "https://fondos.fungicode.io/img/nasa-as08-14-2383/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/nasa-as08-14-2383/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "nasa-art002e021278",
+     "title": "Earthset from Orion",
+     "creator": "NASA",
+     "date": "2026",
+     "source": "nasa",
+     "license": "Public domain",
+     "page": "https://images.nasa.gov/details/art002e021278",
+     "image": "https://fondos.fungicode.io/img/nasa-art002e021278/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/nasa-art002e021278/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "nasa-iss058e005282",
+     "title": "Aurora over the Earth",
+     "creator": "NASA",
+     "date": "2019",
+     "source": "nasa",
+     "license": "Public domain",
+     "page": "https://images.nasa.gov/details/iss058e005282",
+     "image": "https://fondos.fungicode.io/img/nasa-iss058e005282/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/nasa-iss058e005282/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "nasa-iss030e119777",
+     "title": "Aurora seen from the Space Station",
+     "creator": "NASA",
+     "date": "2012",
+     "source": "nasa",
+     "license": "Public domain",
+     "page": "https://images.nasa.gov/details/iss030e119777",
+     "image": "https://fondos.fungicode.io/img/nasa-iss030e119777/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/nasa-iss030e119777/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  }
+ ]
+}
