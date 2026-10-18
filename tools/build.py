@@ -41,10 +41,6 @@ COLLECTION_NAMES = {
     "Wildlife": dict(en="Wildlife", es="Animales", de="Tierwelt", fr="Faune", it="Animali", pt="Animais"),
     "SeaSky": dict(en="Sea & sky", es="Mar y cielo", de="Meer & Himmel", fr="Mer et ciel", it="Mare e cielo",
                    pt="Mar e céu"),
-    "Japan": dict(en="Japan", es="Japón", de="Japan", fr="Japon", it="Giappone", pt="Japão"),
-    "Landscapes": dict(en="Landscapes", es="Paisajes", de="Landschaften", fr="Paysages", it="Paesaggi",
-                       pt="Paisagens"),
-    "Botanical": dict(en="Botanical", es="Botánica", de="Botanik", fr="Botanique", it="Botanica", pt="Botânica"),
     "Space": dict(en="Space", es="Espacio", de="Weltraum", fr="Espace", it="Spazio", pt="Espaço"),
 }
 FREE_PER_COLLECTION = 2
