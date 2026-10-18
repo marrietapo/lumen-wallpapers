@@ -7,16 +7,12 @@ Lumen Originals are made for Lumen.
 ## Japan
 
 - **Ink mountains, red sun** — Lumen — Lumen — Lumen Originals
-- **Torii in the mist** — Lumen — Lumen — Lumen Originals
 - **Red umbrella, sakura** — Lumen — Lumen — Lumen Originals
 - **Ensō** — Lumen — Lumen — Lumen Originals
 - **Koi and lotus** — Lumen — Lumen — Lumen Originals
-- **Bamboo in the mist** — Lumen — Lumen — Lumen Originals
 - **Sumi-e waterfall** — Lumen — Lumen — Lumen Originals
 - **Plum blossom branch** — Lumen — Lumen — Lumen Originals
-- **Red lanterns in the rain** — Lumen — Lumen — Lumen Originals
 - **Maple veranda** — Lumen — Lumen — Lumen Originals
-- **Zen garden** — Lumen — Lumen — Lumen Originals
 - **Ink landscape, red sun** — Lumen — Lumen — Lumen Originals
 - **Fisherman's lake** — Lumen — Lumen — Lumen Originals
 - **Sumi-e lake** — Lumen — Lumen — Lumen Originals
@@ -39,9 +35,7 @@ Lumen Originals are made for Lumen.
 - **Lion, Serengeti** — Giles Laurent, 2020 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:011_The_lion_king_Tryggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg>
 - **Dolphin, Eilat** — טל שמע, 2017 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Eilat_Dolphin_Reef_(3).jpg>
 - **Snow leopard** — Tambako The Jaguar, Niabot, 2009 — CC BY-SA 2.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Snow_leopard_portrait-2010-07-09.jpg>
-- **Giraffe, Lake Manyara** — Giles Laurent, 2020 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:006_Giraffe_portrait_in_the_Lake_Manyara_National_Park_Photo_by_Giles_Laurent.jpg>
 - **Grey wolf** — Clément Bardot, 2021 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Loup_gris_(Canis_lupus_).jpg>
-- **Lilac-breasted roller, Kruger** — Charles J. Sharp, 2024 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Lilac-breasted_roller_(Coracias_caudatus)_Kruger.jpg>
 - **Masked trogon** — Charles J. Sharp, 2025 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Masked_trogon_(Trogon_personatus_temperatus)_male_San_Isidro.jpg>
 - **Fennec foxes** — Anass ERRIHANI, 2012 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Fennec_Fox_Peek.jpg>
 - **Herring gull** — Stephan Sprinz, 2018 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Angreifende_Silberm%C3%B6we_auf_Spiekeroog,_Nationalpark_nieders%C3%A4chsisches_Wattenmeer_-_edited.jpg>
@@ -101,6 +95,8 @@ Lumen Originals are made for Lumen.
 - **Red bicycle, Amsterdam** — Lumen — Lumen — Lumen Originals
 - **Blue dome, Santorini** — Lumen — Lumen — Lumen Originals
 - **Above the clouds** — Lumen — Lumen — Lumen Originals
+- **Torii in the mist** — Lumen — Lumen — Lumen Originals
+- **Red lanterns in the rain** — Lumen — Lumen — Lumen Originals
 - **Kinkaku-ji, Kyoto** — Martin Falbisoner, 2016 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Kinkaku-ji_in_November_2016_-02.jpg>
 - **Midtown Manhattan at night** — King of Hearts — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Midtown_Manhattan_from_Jersey_City_September_2020_HDR.jpg>
 - **Kiyomizu-dera, Kyoto** — Martin Falbisoner, 2016 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-07.jpg>
@@ -125,6 +121,8 @@ Lumen Originals are made for Lumen.
 - **Frosted oak leaf** — Lumen — Lumen — Lumen Originals
 - **Supercell** — Lumen — Lumen — Lumen Originals
 - **Sunrise over misty valleys** — Lumen — Lumen — Lumen Originals
+- **Bamboo in the mist** — Lumen — Lumen — Lumen Originals
+- **Zen garden** — Lumen — Lumen — Lumen Originals
 - **Matterhorn from Grindjisee** — Roy Egloff, 2021 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:CH.VS.Zermatt_Sunnegga_Grindjisee_Matterhorn_9034_16x9-R_16K.jpg>
 - **Lac des Plagnes, Alps** — Krzysztof Golik, 2020 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Lac_des_Plagnes_07.jpg>
 - **Autumn forest, Bruderwald** — Ermell, 2015 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Bruderwald-Herbst-026375.jpg>
@@ -133,11 +131,7 @@ Lumen Originals are made for Lumen.
 - **Demerdzhi, Crimea** — Башкатов Віталій — CC BY-SA 3.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BA%D0%B5%D0%BB%D1%96_%D0%94%D0%B5%D0%BC%D0%B5%D1%80%D0%B4%D0%B6%D1%96.jpg>
 - **New snow in Tuntorp, Sweden** — W.carter, 2023 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:New_snow_on_young_oaks_in_Tuntorp.jpg>
 - **Chara Sands, Siberia** — Ellebedeva, 2022 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Chara_Sands_before_it_rains_-_Kalarsky_District,_Zabaykalsky_Krai,_Siberia.jpg>
-- **Victoria Falls** — Diego Delso, 2018 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg>
-- **Lake Louise, Canada** — Chensiyuan, 2019 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg>
-- **Oak in autumn** — Ermell, 2018 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Hain_Eiche_Herbst_121696.jpg>
 - **Fog in the Bruderwald** — Ermell, 2007 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Bruderwald_Nebel_286411.jpg>
-- **Tea fields, Nilgiris** — Timothy A. Gonsalves, 2025 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Vegetables_Tea_Fields_Nilgiris_Nov25_A7CR_09820-4_HDR1.jpg>
 - **Mallalli Falls, India** — Timothy A. Gonsalves, 2024 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Coral_Tree_Monsoon_Mallalli_Falls_Hassan_Jun24_A7CR_01575.jpg>
 - **Barycz Valley, Poland** — Bartosz Dworski, 2015 — CC BY-SA 3.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Dolina_Baryczy_1.jpg>
 
@@ -152,20 +146,15 @@ Lumen Originals are made for Lumen.
 - **Ogoy Island, Lake Baikal** — Sergey Pesterev — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Ogoy_island_in_winter.jpg>
 - **Padar Island, Komodo** — Jakub Hałun, 2025 — CC BY 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Padar_Island,_Komodo_National_Park,_Indonesia,_20250822_0929_2659.jpg>
 - **Sugarloaf sunrise, Rio** — Donatas Dabravolskas — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Sugarloaf_Sunrise_2.jpg>
-- **Chimney Rock, Point Reyes** — King of Hearts, 2016 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Chimney_Rock_Trail_Point_Reyes_December_2016_panorama_1.jpg>
 - **Ice sails, Lake Baikal** — Discoverynn — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D0%B8%D0%BA%D0%B8.jpg>
-- **Second Beach, Olympic** — King of Hearts, 2018 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Second_Beach_Olympic_June_2018_008.jpg>
 - **Aurora pillar over Brastad** — W.carter, 2024 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Multicolored_aurora_borealis_pillar_over_Brastad.jpg>
 - **Dingle Lighthouse, Ireland** — Superbass — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:2019-07-20-Dingle_Lighthouse-0673.jpg>
 - **North Point sunrise** — Dori, 2009 — CC BY-SA 3.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:North_Point_Sunrise_20090201_0622.jpg>
-- **Chalk cliffs of Jasmund** — Moahim, 2018 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:2019_-_Nationalpark_Jasmund_-_03.jpg>
 - **Summer clouds** — W.carter, 2023 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Summer_clouds_over_Tuntorp_3.jpg>
 - **Pustkowo beach, Poland** — Jar.ciurus, 2017 — CC BY 3.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Plaza_Pustkowo_1.jpg>
 - **Aurora and Perseids** — Stephan Sprinz, 2024 — CC BY 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Aurora_and_perseids.jpg>
-- **Coast near Eiði, Faroe Islands** — Sanshiro Kubota — CC BY 2.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Lonely_house_on_the_coast_near_Ei%C3%B0i_-_Faroe_Islands_(50413406426).jpg>
 - **Sunset on Aresquiers beach** — Christian Ferrer — CC BY 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Sunset_on_the_Aresquiers_beach.jpg>
 - **Peninsula on Lake Debar** — Dean Lazarevski, Aristea — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB_%D0%BF%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%B2%D0%BE_%D0%94%D0%B5%D0%B1%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D1%82%D0%BE_%D0%95%D0%B7%D0%B5%D1%80%D0%BE.jpg>
-- **Dyrhólaey, Iceland** — Diego Delso — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Dyrh%C3%B3laey,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_140.jpg>
 
 ## Space
 

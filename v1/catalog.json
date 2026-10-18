@@ -35,28 +35,6 @@
      "free": true
     },
     {
-     "id": "lumen-japan-02-torii-in-the-mist",
-     "title": "Torii in the mist",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-japan-02-torii-in-the-mist/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-japan-02-torii-in-the-mist/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": true
-    },
-    {
      "id": "lumen-japan-03-red-umbrella-sakura",
      "title": "Red umbrella, sakura",
      "creator": "Lumen",
@@ -76,7 +54,7 @@
       0.3,
       0.5
      ],
-     "free": false
+     "free": true
     },
     {
      "id": "lumen-japan-04-ens",
@@ -118,28 +96,6 @@
      ],
      "focus": [
       0.55,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "lumen-japan-06-bamboo-in-the-mist",
-     "title": "Bamboo in the mist",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-japan-06-bamboo-in-the-mist/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-japan-06-bamboo-in-the-mist/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
       0.5
      ],
      "free": false
@@ -189,28 +145,6 @@
      "free": false
     },
     {
-     "id": "lumen-japan-09-red-lanterns-in-the-rain",
-     "title": "Red lanterns in the rain",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-japan-09-red-lanterns-in-the-rain/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-japan-09-red-lanterns-in-the-rain/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.4,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "lumen-japan-10-maple-veranda",
      "title": "Maple veranda",
      "creator": "Lumen",
@@ -228,28 +162,6 @@
      ],
      "focus": [
       0.35,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "lumen-japan-11-zen-garden",
-     "title": "Zen garden",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-japan-11-zen-garden/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-japan-11-zen-garden/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
       0.5
      ],
      "free": false
@@ -686,28 +598,6 @@
      "free": false
     },
     {
-     "id": "wm-121087154",
-     "title": "Giraffe, Lake Manyara",
-     "creator": "Giles Laurent",
-     "date": "2020",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:006_Giraffe_portrait_in_the_Lake_Manyara_National_Park_Photo_by_Giles_Laurent.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-121087154/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-121087154/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "wm-123918350",
      "title": "Grey wolf",
      "creator": "Clément Bardot",
@@ -717,28 +607,6 @@
      "page": "https://commons.wikimedia.org/wiki/File:Loup_gris_(Canis_lupus_).jpg",
      "image": "https://fondos.fungicode.io/img/wm-123918350/full.webp",
      "thumb": "https://fondos.fungicode.io/img/wm-123918350/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-148651951",
-     "title": "Lilac-breasted roller, Kruger",
-     "creator": "Charles J. Sharp",
-     "date": "2024",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Lilac-breasted_roller_(Coracias_caudatus)_Kruger.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-148651951/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-148651951/thumb.webp",
      "crop": [
       0,
       0,
@@ -1732,6 +1600,50 @@
      "free": false
     },
     {
+     "id": "lumen-japan-02-torii-in-the-mist",
+     "title": "Torii in the mist",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-02-torii-in-the-mist/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-02-torii-in-the-mist/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-09-red-lanterns-in-the-rain",
+     "title": "Red lanterns in the rain",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-09-red-lanterns-in-the-rain/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-09-red-lanterns-in-the-rain/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
      "id": "wm-53564827",
      "title": "Kinkaku-ji, Kyoto",
      "creator": "Martin Falbisoner",
@@ -2207,6 +2119,50 @@
      "free": false
     },
     {
+     "id": "lumen-japan-06-bamboo-in-the-mist",
+     "title": "Bamboo in the mist",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-06-bamboo-in-the-mist/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-06-bamboo-in-the-mist/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-11-zen-garden",
+     "title": "Zen garden",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-11-zen-garden/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-11-zen-garden/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
      "id": "wm-111875352",
      "title": "Matterhorn from Grindjisee",
      "creator": "Roy Egloff",
@@ -2383,72 +2339,6 @@
      "free": false
     },
     {
-     "id": "wm-73750624",
-     "title": "Victoria Falls",
-     "creator": "Diego Delso",
-     "date": "2018",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-73750624/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-73750624/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-80438340",
-     "title": "Lake Louise, Canada",
-     "creator": "Chensiyuan",
-     "date": "2019",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-80438340/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-80438340/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-81063742",
-     "title": "Oak in autumn",
-     "creator": "Ermell",
-     "date": "2018",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Hain_Eiche_Herbst_121696.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-81063742/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-81063742/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "wm-69171555",
      "title": "Fog in the Bruderwald",
      "creator": "Ermell",
@@ -2458,28 +2348,6 @@
      "page": "https://commons.wikimedia.org/wiki/File:Bruderwald_Nebel_286411.jpg",
      "image": "https://fondos.fungicode.io/img/wm-69171555/full.webp",
      "thumb": "https://fondos.fungicode.io/img/wm-69171555/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-181641872",
-     "title": "Tea fields, Nilgiris",
-     "creator": "Timothy A. Gonsalves",
-     "date": "2025",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Vegetables_Tea_Fields_Nilgiris_Nov25_A7CR_09820-4_HDR1.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-181641872/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-181641872/thumb.webp",
      "crop": [
       0,
       0,
@@ -2748,28 +2616,6 @@
      "free": false
     },
     {
-     "id": "wm-53879764",
-     "title": "Chimney Rock, Point Reyes",
-     "creator": "King of Hearts",
-     "date": "2016",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Chimney_Rock_Trail_Point_Reyes_December_2016_panorama_1.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-53879764/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-53879764/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "wm-69219810",
      "title": "Ice sails, Lake Baikal",
      "creator": "Discoverynn",
@@ -2779,28 +2625,6 @@
      "page": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D0%B8%D0%BA%D0%B8.jpg",
      "image": "https://fondos.fungicode.io/img/wm-69219810/full.webp",
      "thumb": "https://fondos.fungicode.io/img/wm-69219810/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-109541262",
-     "title": "Second Beach, Olympic",
-     "creator": "King of Hearts",
-     "date": "2018",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Second_Beach_Olympic_June_2018_008.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-109541262/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-109541262/thumb.webp",
      "crop": [
       0,
       0,
@@ -2880,28 +2704,6 @@
      "free": false
     },
     {
-     "id": "wm-79147005",
-     "title": "Chalk cliffs of Jasmund",
-     "creator": "Moahim",
-     "date": "2018",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:2019_-_Nationalpark_Jasmund_-_03.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-79147005/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-79147005/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "wm-135355386",
      "title": "Summer clouds",
      "creator": "W.carter",
@@ -2968,28 +2770,6 @@
      "free": false
     },
     {
-     "id": "wm-113463249",
-     "title": "Coast near Eiði, Faroe Islands",
-     "creator": "Sanshiro Kubota",
-     "date": "",
-     "source": "wikimedia",
-     "license": "CC BY 2.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Lonely_house_on_the_coast_near_Ei%C3%B0i_-_Faroe_Islands_(50413406426).jpg",
-     "image": "https://fondos.fungicode.io/img/wm-113463249/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-113463249/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "wm-64352825",
      "title": "Sunset on Aresquiers beach",
      "creator": "Christian Ferrer",
@@ -3021,28 +2801,6 @@
      "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB_%D0%BF%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%B2%D0%BE_%D0%94%D0%B5%D0%B1%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D1%82%D0%BE_%D0%95%D0%B7%D0%B5%D1%80%D0%BE.jpg",
      "image": "https://fondos.fungicode.io/img/wm-126844856/full.webp",
      "thumb": "https://fondos.fungicode.io/img/wm-126844856/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-37344897",
-     "title": "Dyrhólaey, Iceland",
-     "creator": "Diego Delso",
-     "date": "",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Dyrh%C3%B3laey,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_140.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-37344897/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-37344897/thumb.webp",
      "crop": [
       0,
       0,
