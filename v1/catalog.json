@@ -2,14 +2,1544 @@
  "schema": 1,
  "collections": [
   {
-   "id": "Originals",
+   "id": "Japan",
    "names": {
-    "en": "Lumen Originals",
-    "es": "Lumen Originals",
-    "de": "Lumen Originals",
-    "fr": "Lumen Originals",
-    "it": "Lumen Originals",
-    "pt": "Lumen Originals"
+    "en": "Japan",
+    "es": "Japón",
+    "de": "Japan",
+    "fr": "Japon",
+    "it": "Giappone",
+    "pt": "Japão"
+   },
+   "photos": [
+    {
+     "id": "lumen-japan-01-ink-mountains-red-sun",
+     "title": "Ink mountains, red sun",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-01-ink-mountains-red-sun/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-01-ink-mountains-red-sun/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-japan-02-torii-in-the-mist",
+     "title": "Torii in the mist",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-02-torii-in-the-mist/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-02-torii-in-the-mist/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-japan-03-red-umbrella-sakura",
+     "title": "Red umbrella, sakura",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-03-red-umbrella-sakura/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-03-red-umbrella-sakura/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.3,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-04-ens",
+     "title": "Ensō",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-04-ens/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-04-ens/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-05-koi-and-lotus",
+     "title": "Koi and lotus",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-05-koi-and-lotus/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-05-koi-and-lotus/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-06-bamboo-in-the-mist",
+     "title": "Bamboo in the mist",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-06-bamboo-in-the-mist/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-06-bamboo-in-the-mist/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-07-sumi-e-waterfall",
+     "title": "Sumi-e waterfall",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-07-sumi-e-waterfall/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-07-sumi-e-waterfall/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-08-plum-blossom-branch",
+     "title": "Plum blossom branch",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-08-plum-blossom-branch/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-08-plum-blossom-branch/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-09-red-lanterns-in-the-rain",
+     "title": "Red lanterns in the rain",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-09-red-lanterns-in-the-rain/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-09-red-lanterns-in-the-rain/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-10-maple-veranda",
+     "title": "Maple veranda",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-10-maple-veranda/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-10-maple-veranda/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.35,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-11-zen-garden",
+     "title": "Zen garden",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-11-zen-garden/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-11-zen-garden/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-12-ink-landscape-red-sun",
+     "title": "Ink landscape, red sun",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-12-ink-landscape-red-sun/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-12-ink-landscape-red-sun/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-13-fisherman-s-lake",
+     "title": "Fisherman's lake",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-13-fisherman-s-lake/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-13-fisherman-s-lake/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-japan-14-sumi-e-lake",
+     "title": "Sumi-e lake",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-japan-14-sumi-e-lake/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-japan-14-sumi-e-lake/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-02-red-sun-over-the-mountain",
+     "title": "Red sun over the mountain",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-02-red-sun-over-the-mountain/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-02-red-sun-over-the-mountain/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Wildlife",
+   "names": {
+    "en": "Wildlife",
+    "es": "Animales",
+    "de": "Tierwelt",
+    "fr": "Faune",
+    "it": "Animali",
+    "pt": "Animais"
+   },
+   "photos": [
+    {
+     "id": "lumen-wildlife-01-humpback-whale",
+     "title": "Humpback whale",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-wildlife-01-humpback-whale/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-wildlife-01-humpback-whale/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-04-curious-red-panda",
+     "title": "Curious red panda",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-04-curious-red-panda/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-04-curious-red-panda/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.6,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-wildlife-02-red-octopus",
+     "title": "Red octopus",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-wildlife-02-red-octopus/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-wildlife-02-red-octopus/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-10-sleeping-arctic-fox",
+     "title": "Sleeping arctic fox",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-10-sleeping-arctic-fox/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-10-sleeping-arctic-fox/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-wildlife-03-cardinal-in-the-snow",
+     "title": "Cardinal in the snow",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-wildlife-03-cardinal-in-the-snow/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-wildlife-03-cardinal-in-the-snow/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.3,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-15-sea-otter",
+     "title": "Sea otter",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-15-sea-otter/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-15-sea-otter/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-wildlife-04-jellyfish",
+     "title": "Jellyfish",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-wildlife-04-jellyfish/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-wildlife-04-jellyfish/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-19-red-fox-in-the-snow",
+     "title": "Red fox in the snow",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-19-red-fox-in-the-snow/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-19-red-fox-in-the-snow/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-wildlife-05-golden-seahorse",
+     "title": "Golden seahorse",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-wildlife-05-golden-seahorse/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-wildlife-05-golden-seahorse/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-18-robin-on-a-branch",
+     "title": "Robin on a branch",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-18-robin-on-a-branch/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-18-robin-on-a-branch/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-wildlife-06-sea-turtle",
+     "title": "Sea turtle",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-wildlife-06-sea-turtle/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-wildlife-06-sea-turtle/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.42,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-07-cat-at-golden-hour",
+     "title": "Cat at golden hour",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-07-cat-at-golden-hour/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-07-cat-at-golden-hour/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-121188762",
+     "title": "Lion, Serengeti",
+     "creator": "Giles Laurent",
+     "date": "2020",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:011_The_lion_king_Tryggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-121188762/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-121188762/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-72784453",
+     "title": "Dolphin, Eilat",
+     "creator": "טל שמע",
+     "date": "2017",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Eilat_Dolphin_Reef_(3).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-72784453/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-72784453/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-11412320",
+     "title": "Snow leopard",
+     "creator": "Tambako The Jaguar, Niabot",
+     "date": "2009",
+     "source": "wikimedia",
+     "license": "CC BY-SA 2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Snow_leopard_portrait-2010-07-09.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-11412320/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-11412320/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-121087154",
+     "title": "Giraffe, Lake Manyara",
+     "creator": "Giles Laurent",
+     "date": "2020",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:006_Giraffe_portrait_in_the_Lake_Manyara_National_Park_Photo_by_Giles_Laurent.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-121087154/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-121087154/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-123918350",
+     "title": "Grey wolf",
+     "creator": "Clément Bardot",
+     "date": "2021",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Loup_gris_(Canis_lupus_).jpg",
+     "image": "https://fondos.fungicode.io/img/wm-123918350/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-123918350/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-148651951",
+     "title": "Lilac-breasted roller, Kruger",
+     "creator": "Charles J. Sharp",
+     "date": "2024",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Lilac-breasted_roller_(Coracias_caudatus)_Kruger.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-148651951/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-148651951/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-164917379",
+     "title": "Masked trogon",
+     "creator": "Charles J. Sharp",
+     "date": "2025",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Masked_trogon_(Trogon_personatus_temperatus)_male_San_Isidro.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-164917379/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-164917379/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-59312626",
+     "title": "Fennec foxes",
+     "creator": "Anass ERRIHANI",
+     "date": "2012",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_Peek.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-59312626/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-59312626/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-86099005",
+     "title": "Herring gull",
+     "creator": "Stephan Sprinz",
+     "date": "2018",
+     "source": "wikimedia",
+     "license": "CC BY-SA 4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Angreifende_Silberm%C3%B6we_auf_Spiekeroog,_Nationalpark_nieders%C3%A4chsisches_Wattenmeer_-_edited.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-86099005/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-86099005/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "wm-109131929",
+     "title": "Crested tern",
+     "creator": "JJ Harrison",
+     "date": "2021",
+     "source": "wikimedia",
+     "license": "CC BY-SA 3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Crested_Tern_-_Mortimer_Bay.jpg",
+     "image": "https://fondos.fungicode.io/img/wm-109131929/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/wm-109131929/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Sports",
+   "names": {
+    "en": "Sports",
+    "es": "Deportes",
+    "de": "Sport",
+    "fr": "Sports",
+    "it": "Sport",
+    "pt": "Esportes"
+   },
+   "photos": [
+    {
+     "id": "lumen-sports-01-storm-wave",
+     "title": "Storm wave",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sports-01-storm-wave/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sports-01-storm-wave/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.62,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-sports-02-basketball",
+     "title": "Basketball",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sports-02-basketball/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sports-02-basketball/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-sports-03-skier-in-the-mist",
+     "title": "Skier in the mist",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sports-03-skier-in-the-mist/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sports-03-skier-in-the-mist/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sports-05-red-gloves",
+     "title": "Red gloves",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sports-05-red-gloves/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sports-05-red-gloves/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.35,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sports-06-alpine-switchbacks",
+     "title": "Alpine switchbacks",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sports-06-alpine-switchbacks/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sports-06-alpine-switchbacks/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sports-07-run-by-the-shore",
+     "title": "Run by the shore",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sports-07-run-by-the-shore/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sports-07-run-by-the-shore/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.35,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sports-08-red-plates",
+     "title": "Red plates",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sports-08-red-plates/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sports-08-red-plates/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sports-04-tennis-in-the-rain",
+     "title": "Tennis in the rain",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sports-04-tennis-in-the-rain/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sports-04-tennis-in-the-rain/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Night",
+   "names": {
+    "en": "Night",
+    "es": "Noche",
+    "de": "Nacht",
+    "fr": "Nuit",
+    "it": "Notte",
+    "pt": "Noite"
+   },
+   "photos": [
+    {
+     "id": "lumen-night-01-tree-under-the-milky-way",
+     "title": "Tree under the Milky Way",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-night-01-tree-under-the-milky-way/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-night-01-tree-under-the-milky-way/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-night-02-star-trails",
+     "title": "Star trails",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-night-02-star-trails/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-night-02-star-trails/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-night-03-explorer-under-the-stars",
+     "title": "Explorer under the stars",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-night-03-explorer-under-the-stars/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-night-03-explorer-under-the-stars/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-night-04-violet-lightning",
+     "title": "Violet lightning",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-night-04-violet-lightning/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-night-04-violet-lightning/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-night-05-meteor-over-the-dunes",
+     "title": "Meteor over the dunes",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-night-05-meteor-over-the-dunes/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-night-05-meteor-over-the-dunes/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-night-06-snowy-night",
+     "title": "Snowy night",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-night-06-snowy-night/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-night-06-snowy-night/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Minimal",
+   "names": {
+    "en": "Minimal",
+    "es": "Minimal",
+    "de": "Minimal",
+    "fr": "Minimal",
+    "it": "Minimal",
+    "pt": "Minimal"
+   },
+   "photos": [
+    {
+     "id": "lumen-minimal-01-paper-hills",
+     "title": "Paper hills",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-minimal-01-paper-hills/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-minimal-01-paper-hills/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-minimal-02-colonnade",
+     "title": "Colonnade",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-minimal-02-colonnade/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-minimal-02-colonnade/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-minimal-03-spiral-staircase",
+     "title": "Spiral staircase",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-minimal-03-spiral-staircase/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-minimal-03-spiral-staircase/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-minimal-04-watercolor-clouds",
+     "title": "Watercolor clouds",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-minimal-04-watercolor-clouds/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-minimal-04-watercolor-clouds/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-minimal-05-concrete-steps",
+     "title": "Concrete steps",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-minimal-05-concrete-steps/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-minimal-05-concrete-steps/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.62,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-minimal-06-terracotta-wall",
+     "title": "Terracotta wall",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-minimal-06-terracotta-wall/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-minimal-06-terracotta-wall/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.6,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-minimal-07-watercolor-pebbles",
+     "title": "Watercolor pebbles",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-minimal-07-watercolor-pebbles/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-minimal-07-watercolor-pebbles/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-11-red-balloon-over-the-valley",
+     "title": "Red balloon over the valley",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-11-red-balloon-over-the-valley/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-11-red-balloon-over-the-valley/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.62,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-21-lone-bird",
+     "title": "Lone bird",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-21-lone-bird/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-21-lone-bird/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.8,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Rain",
+   "names": {
+    "en": "Rain",
+    "es": "Lluvia",
+    "de": "Regen",
+    "fr": "Pluie",
+    "it": "Pioggia",
+    "pt": "Chuva"
+   },
+   "photos": [
+    {
+     "id": "lumen-08-orange-umbrella-in-the-rain",
+     "title": "Orange umbrella in the rain",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-08-orange-umbrella-in-the-rain/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-08-orange-umbrella-in-the-rain/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-09-rainy-alley-in-kyoto",
+     "title": "Rainy alley in Kyoto",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-09-rainy-alley-in-kyoto/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-09-rainy-alley-in-kyoto/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-16-yellow-taxi-new-york",
+     "title": "Yellow taxi, New York",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-16-yellow-taxi-new-york/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-16-yellow-taxi-new-york/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-14-coffee-on-a-rainy-day",
+     "title": "Coffee on a rainy day",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-14-coffee-on-a-rainy-day/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-14-coffee-on-a-rainy-day/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-17-misty-london",
+     "title": "Misty London",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-17-misty-london/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-17-misty-london/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.35,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-22-under-a-clear-umbrella",
+     "title": "Under a clear umbrella",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-22-under-a-clear-umbrella/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-22-under-a-clear-umbrella/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Fantasy",
+   "names": {
+    "en": "Fantasy",
+    "es": "Fantasía",
+    "de": "Fantasie",
+    "fr": "Imaginaire",
+    "it": "Fantasia",
+    "pt": "Fantasia"
    },
    "photos": [
     {
@@ -35,15 +1565,15 @@
      "free": true
     },
     {
-     "id": "lumen-02-red-sun-over-the-mountain",
-     "title": "Red sun over the mountain",
+     "id": "lumen-06-glowing-mushroom-forest",
+     "title": "Glowing mushroom forest",
      "creator": "Lumen",
      "date": "",
      "source": "lumen",
      "license": "Lumen",
      "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-02-red-sun-over-the-mountain/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-02-red-sun-over-the-mountain/thumb.webp",
+     "image": "https://fondos.fungicode.io/img/lumen-06-glowing-mushroom-forest/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-06-glowing-mushroom-forest/thumb.webp",
      "crop": [
       0,
       0,
@@ -79,28 +1609,6 @@
      "free": false
     },
     {
-     "id": "lumen-04-curious-red-panda",
-     "title": "Curious red panda",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-04-curious-red-panda/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-04-curious-red-panda/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.6,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "lumen-05-astronaut-in-the-wildflowers",
      "title": "Astronaut in the wildflowers",
      "creator": "Lumen",
@@ -121,17 +1629,30 @@
       0.5
      ],
      "free": false
-    },
+    }
+   ]
+  },
+  {
+   "id": "Travel",
+   "names": {
+    "en": "Travel",
+    "es": "Viajes",
+    "de": "Reisen",
+    "fr": "Voyages",
+    "it": "Viaggi",
+    "pt": "Viagens"
+   },
+   "photos": [
     {
-     "id": "lumen-06-glowing-mushroom-forest",
-     "title": "Glowing mushroom forest",
+     "id": "lumen-travel-01-vespa-in-tuscany",
+     "title": "Vespa in Tuscany",
      "creator": "Lumen",
      "date": "",
      "source": "lumen",
      "license": "Lumen",
      "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-06-glowing-mushroom-forest/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-06-glowing-mushroom-forest/thumb.webp",
+     "image": "https://fondos.fungicode.io/img/lumen-travel-01-vespa-in-tuscany/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-travel-01-vespa-in-tuscany/thumb.webp",
      "crop": [
       0,
       0,
@@ -139,21 +1660,21 @@
       1
      ],
      "focus": [
-      0.5,
+      0.36,
       0.5
      ],
-     "free": false
+     "free": true
     },
     {
-     "id": "lumen-07-cat-at-golden-hour",
-     "title": "Cat at golden hour",
+     "id": "lumen-travel-02-red-bicycle-amsterdam",
+     "title": "Red bicycle, Amsterdam",
      "creator": "Lumen",
      "date": "",
      "source": "lumen",
      "license": "Lumen",
      "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-07-cat-at-golden-hour/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-07-cat-at-golden-hour/thumb.webp",
+     "image": "https://fondos.fungicode.io/img/lumen-travel-02-red-bicycle-amsterdam/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-travel-02-red-bicycle-amsterdam/thumb.webp",
      "crop": [
       0,
       0,
@@ -161,98 +1682,10 @@
       1
      ],
      "focus": [
-      0.5,
+      0.35,
       0.5
      ],
-     "free": false
-    },
-    {
-     "id": "lumen-08-orange-umbrella-in-the-rain",
-     "title": "Orange umbrella in the rain",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-08-orange-umbrella-in-the-rain/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-08-orange-umbrella-in-the-rain/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "lumen-09-rainy-alley-in-kyoto",
-     "title": "Rainy alley in Kyoto",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-09-rainy-alley-in-kyoto/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-09-rainy-alley-in-kyoto/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "lumen-10-sleeping-arctic-fox",
-     "title": "Sleeping arctic fox",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-10-sleeping-arctic-fox/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-10-sleeping-arctic-fox/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.55,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "lumen-11-red-balloon-over-the-valley",
-     "title": "Red balloon over the valley",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-11-red-balloon-over-the-valley/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-11-red-balloon-over-the-valley/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.62,
-      0.5
-     ],
-     "free": false
+     "free": true
     },
     {
      "id": "lumen-12-blue-dome-santorini",
@@ -272,160 +1705,6 @@
      ],
      "focus": [
       0.45,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "lumen-13-sunrise-over-misty-valleys",
-     "title": "Sunrise over misty valleys",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-13-sunrise-over-misty-valleys/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-13-sunrise-over-misty-valleys/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.55,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "lumen-14-coffee-on-a-rainy-day",
-     "title": "Coffee on a rainy day",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-14-coffee-on-a-rainy-day/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-14-coffee-on-a-rainy-day/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.55,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "lumen-15-sea-otter",
-     "title": "Sea otter",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-15-sea-otter/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-15-sea-otter/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "lumen-16-yellow-taxi-new-york",
-     "title": "Yellow taxi, New York",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-16-yellow-taxi-new-york/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-16-yellow-taxi-new-york/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.4,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "lumen-17-misty-london",
-     "title": "Misty London",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-17-misty-london/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-17-misty-london/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.35,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "lumen-18-robin-on-a-branch",
-     "title": "Robin on a branch",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-18-robin-on-a-branch/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-18-robin-on-a-branch/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.45,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "lumen-19-red-fox-in-the-snow",
-     "title": "Red fox in the snow",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-19-red-fox-in-the-snow/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-19-red-fox-in-the-snow/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.4,
       0.5
      ],
      "free": false
@@ -453,41 +1732,6 @@
      "free": false
     },
     {
-     "id": "lumen-21-lone-bird",
-     "title": "Lone bird",
-     "creator": "Lumen",
-     "date": "",
-     "source": "lumen",
-     "license": "Lumen",
-     "page": "",
-     "image": "https://fondos.fungicode.io/img/lumen-21-lone-bird/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/lumen-21-lone-bird/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.8,
-      0.5
-     ],
-     "free": false
-    }
-   ]
-  },
-  {
-   "id": "Travel",
-   "names": {
-    "en": "Travel",
-    "es": "Viajes",
-    "de": "Reisen",
-    "fr": "Voyages",
-    "it": "Viaggi",
-    "pt": "Viagens"
-   },
-   "photos": [
-    {
      "id": "wm-53564827",
      "title": "Kinkaku-ji, Kyoto",
      "creator": "Martin Falbisoner",
@@ -507,7 +1751,7 @@
       0.5,
       0.5
      ],
-     "free": true
+     "free": false
     },
     {
      "id": "wm-95660829",
@@ -529,7 +1773,7 @@
       0.5,
       0.5
      ],
-     "free": true
+     "free": false
     },
     {
      "id": "wm-53618736",
@@ -730,28 +1974,6 @@
      "free": false
     },
     {
-     "id": "wm-140056707",
-     "title": "Saint Patrick's Street, Valletta",
-     "creator": "Rhododendrites",
-     "date": "2023",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Saint_Patrick%27s_Street_Valletta_(70394).jpg",
-     "image": "https://fondos.fungicode.io/img/wm-140056707/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-140056707/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "wm-94268097",
      "title": "Peacock Gate, Jaipur",
      "creator": "Jakub Hałun",
@@ -761,28 +1983,6 @@
      "page": "https://commons.wikimedia.org/wiki/File:Portal,_Pitam_Niwas_Chowk,_City_Palace,_Jaipur,_20191218_1000_9059.jpg",
      "image": "https://fondos.fungicode.io/img/wm-94268097/full.webp",
      "thumb": "https://fondos.fungicode.io/img/wm-94268097/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-44813910",
-     "title": "Berlin TV Tower",
-     "creator": "Thomas Wolf",
-     "date": "2015",
-     "source": "wikimedia",
-     "license": "CC BY-SA 3.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Berliner_Fernsehturm_(Detailansicht).jpg",
-     "image": "https://fondos.fungicode.io/img/wm-44813910/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-44813910/thumb.webp",
      "crop": [
       0,
       0,
@@ -862,28 +2062,6 @@
      "free": false
     },
     {
-     "id": "wm-184591470",
-     "title": "Torre Glòries, Barcelona",
-     "creator": "Alvesgaspar",
-     "date": "2015",
-     "source": "wikimedia",
-     "license": "CC0",
-     "page": "https://commons.wikimedia.org/wiki/File:Barcelona_March_2015-2b.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-184591470/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-184591470/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "wm-55960809",
      "title": "Nara Park in autumn",
      "creator": "Martin Falbisoner",
@@ -926,50 +2104,6 @@
       0.5
      ],
      "free": false
-    },
-    {
-     "id": "wm-41749801",
-     "title": "Tour Saint-Jacques, Paris",
-     "creator": "Benh LIEU SONG",
-     "date": "2015",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Tour_Saint-Jacques_BLS.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-41749801/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-41749801/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-80892051",
-     "title": "Devil's Bridge, Schöllenen",
-     "creator": "Wolfgang Moroder",
-     "date": "2019",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Die_Sch%C3%B6llenen_Schlucht_mit_Teufelsbr%C3%BCcke_im_schweizerischen_Kanton_Uri.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-80892051/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-80892051/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.294,
-      0.5
-     ],
-     "free": false
     }
    ]
   },
@@ -984,6 +2118,94 @@
     "pt": "Natureza"
    },
    "photos": [
+    {
+     "id": "lumen-nature-01-misty-pines",
+     "title": "Misty pines",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-nature-01-misty-pines/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-nature-01-misty-pines/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-nature-02-frosted-oak-leaf",
+     "title": "Frosted oak leaf",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-nature-02-frosted-oak-leaf/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-nature-02-frosted-oak-leaf/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-nature-03-supercell",
+     "title": "Supercell",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-nature-03-supercell/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-nature-03-supercell/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-13-sunrise-over-misty-valleys",
+     "title": "Sunrise over misty valleys",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-13-sunrise-over-misty-valleys/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-13-sunrise-over-misty-valleys/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": false
+    },
     {
      "id": "wm-111875352",
      "title": "Matterhorn from Grindjisee",
@@ -1004,7 +2226,7 @@
       0.5,
       0.5
      ],
-     "free": true
+     "free": false
     },
     {
      "id": "wm-95911949",
@@ -1016,72 +2238,6 @@
      "page": "https://commons.wikimedia.org/wiki/File:Lac_des_Plagnes_07.jpg",
      "image": "https://fondos.fungicode.io/img/wm-95911949/full.webp",
      "thumb": "https://fondos.fungicode.io/img/wm-95911949/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": true
-    },
-    {
-     "id": "wm-73714927",
-     "title": "Puez-Odle, Dolomites",
-     "creator": "Wolfgang Moroder",
-     "date": "2017",
-     "source": "wikimedia",
-     "license": "CC BY-SA 3.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Saslonch_Pizes_de_Cir_Chedul_Gherdeina.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-73714927/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-73714927/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-37281052",
-     "title": "Seljalandsfoss, Iceland",
-     "creator": "Diego Delso",
-     "date": "",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Seljalandsfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_189-191_HDR.JPG",
-     "image": "https://fondos.fungicode.io/img/wm-37281052/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-37281052/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-84482623",
-     "title": "Multnomah Falls, Oregon",
-     "creator": "King of Hearts",
-     "date": "2019",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Multnomah_Falls_October_2019_stack.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-84482623/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-84482623/thumb.webp",
      "crop": [
       0,
       0,
@@ -1183,28 +2339,6 @@
      "free": false
     },
     {
-     "id": "wm-36612630",
-     "title": "Dynjandi, Iceland",
-     "creator": "Diego Delso",
-     "date": "",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Cascada_Dynjandi,_Vestfir%C3%B0ir,_Islandia,_2014-08-14,_DD_136-138_HDR.JPG",
-     "image": "https://fondos.fungicode.io/img/wm-36612630/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-36612630/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "wm-127409121",
      "title": "New snow in Tuntorp, Sweden",
      "creator": "W.carter",
@@ -1214,28 +2348,6 @@
      "page": "https://commons.wikimedia.org/wiki/File:New_snow_on_young_oaks_in_Tuntorp.jpg",
      "image": "https://fondos.fungicode.io/img/wm-127409121/full.webp",
      "thumb": "https://fondos.fungicode.io/img/wm-127409121/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-85063306",
-     "title": "Three Sisters, Blue Mountains",
-     "creator": "Dietmar Rabich",
-     "date": "",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Blue_Mountains_National_Park_(AU),_Three_Sisters_--_2019_--_1987-9.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-85063306/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-85063306/thumb.webp",
      "crop": [
       0,
       0,
@@ -1403,50 +2515,6 @@
      "free": false
     },
     {
-     "id": "wm-47029744",
-     "title": "Langkofel group, Dolomites",
-     "creator": "Wolfgang Moroder",
-     "date": "2016",
-     "source": "wikimedia",
-     "license": "CC BY-SA 3.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Langkofel_group_from_the_Sella_pass_2016.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-47029744/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-47029744/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-169013970",
-     "title": "Teichschlucht, Black Forest",
-     "creator": "Dietmar Rabich",
-     "date": "",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:G%C3%BCtenbach,_Teichschlucht_--_2025_--_7668.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-169013970/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-169013970/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "wm-40283886",
      "title": "Barycz Valley, Poland",
      "creator": "Bartosz Dworski",
@@ -1456,525 +2524,6 @@
      "page": "https://commons.wikimedia.org/wiki/File:Dolina_Baryczy_1.jpg",
      "image": "https://fondos.fungicode.io/img/wm-40283886/full.webp",
      "thumb": "https://fondos.fungicode.io/img/wm-40283886/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-42751692",
-     "title": "Mealt Falls, Isle of Skye",
-     "creator": "Colin",
-     "date": "2015",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Mealt_Waterfall_with_Kilt_Rock,_Isle_of_Skye.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-42751692/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-42751692/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.422,
-      0.5
-     ],
-     "free": false
-    }
-   ]
-  },
-  {
-   "id": "Wildlife",
-   "names": {
-    "en": "Wildlife",
-    "es": "Animales",
-    "de": "Tierwelt",
-    "fr": "Faune",
-    "it": "Animali",
-    "pt": "Animais"
-   },
-   "photos": [
-    {
-     "id": "wm-121188762",
-     "title": "Lion, Serengeti",
-     "creator": "Giles Laurent",
-     "date": "2020",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:011_The_lion_king_Tryggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-121188762/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-121188762/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": true
-    },
-    {
-     "id": "wm-72784453",
-     "title": "Dolphin, Eilat",
-     "creator": "טל שמע",
-     "date": "2017",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Eilat_Dolphin_Reef_(3).jpg",
-     "image": "https://fondos.fungicode.io/img/wm-72784453/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-72784453/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": true
-    },
-    {
-     "id": "wm-11412320",
-     "title": "Snow leopard",
-     "creator": "Tambako The Jaguar, Niabot",
-     "date": "2009",
-     "source": "wikimedia",
-     "license": "CC BY-SA 2.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Snow_leopard_portrait-2010-07-09.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-11412320/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-11412320/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-121087154",
-     "title": "Giraffe, Lake Manyara",
-     "creator": "Giles Laurent",
-     "date": "2020",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:006_Giraffe_portrait_in_the_Lake_Manyara_National_Park_Photo_by_Giles_Laurent.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-121087154/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-121087154/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-123918350",
-     "title": "Grey wolf",
-     "creator": "Clément Bardot",
-     "date": "2021",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Loup_gris_(Canis_lupus_).jpg",
-     "image": "https://fondos.fungicode.io/img/wm-123918350/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-123918350/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-148651951",
-     "title": "Lilac-breasted roller, Kruger",
-     "creator": "Charles J. Sharp",
-     "date": "2024",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Lilac-breasted_roller_(Coracias_caudatus)_Kruger.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-148651951/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-148651951/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-59393959",
-     "title": "Humpback whale",
-     "creator": "Jérémie Silvestro",
-     "date": "",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Baleine_%C3%A0_bosse_et_son_baleineau_2.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-59393959/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-59393959/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-164917379",
-     "title": "Masked trogon",
-     "creator": "Charles J. Sharp",
-     "date": "2025",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Masked_trogon_(Trogon_personatus_temperatus)_male_San_Isidro.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-164917379/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-164917379/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-150935232",
-     "title": "Zanzibar red colobus",
-     "creator": "Diego Delso",
-     "date": "2024",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Colobo_rojo_de_Zanz%C3%ADbar_(Piliocolobus_kirkii),_parque_nacional_de_la_Bah%C3%ADa_Jozani_Chwaka,_Zanz%C3%ADbar,_Tanzania,_2024-06-02,_DD_17.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-150935232/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-150935232/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-190743548",
-     "title": "Alpine ibex",
-     "creator": "Bernd Thaller",
-     "date": "2014",
-     "source": "wikimedia",
-     "license": "CC BY-SA 3.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Steinbock_14962940265_(cropped).jpg",
-     "image": "https://fondos.fungicode.io/img/wm-190743548/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-190743548/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-68003968",
-     "title": "White-tailed eagle",
-     "creator": "Christoph Müller",
-     "date": "2018",
-     "source": "wikimedia",
-     "license": "CC BY 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:White_tailed_eagle_raftsund_square_crop.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-68003968/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-68003968/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-151059936",
-     "title": "Serval, Tarangire",
-     "creator": "Diego Delso",
-     "date": "2024",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Serval_(Leptailurus_serval),_parque_nacional_de_Tarangire,_Tanzania,_2024-05-25,_DD_54.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-151059936/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-151059936/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-98068067",
-     "title": "Major Mitchell's cockatoo",
-     "creator": "JJ Harrison",
-     "date": "2020",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Major_Mitchell%27s_Cockatoo_-_Mt_Grenfell.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-98068067/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-98068067/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-25471921",
-     "title": "Black rhinos, Etosha",
-     "creator": "Yathin S Krishnappa",
-     "date": "2013",
-     "source": "wikimedia",
-     "license": "CC BY-SA 3.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Diceros_bicornis_(Etosha).jpg",
-     "image": "https://fondos.fungicode.io/img/wm-25471921/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-25471921/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-81001417",
-     "title": "Geoffroy's tamarin",
-     "creator": "Charles J. Sharp",
-     "date": "2019",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Geoffroy%27s_tamarin_(Saguinus_geoffroyi)_2.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-81001417/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-81001417/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-134376191",
-     "title": "Olive-bellied sunbird",
-     "creator": "Giles Laurent",
-     "date": "2022",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:001_Olive-bellied_Sunbird_starting_to_fly_at_Kibale_National_Park_Photo_by_Giles_Laurent.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-134376191/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-134376191/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-59312626",
-     "title": "Fennec foxes",
-     "creator": "Anass ERRIHANI",
-     "date": "2012",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_Peek.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-59312626/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-59312626/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-86099005",
-     "title": "Herring gull",
-     "creator": "Stephan Sprinz",
-     "date": "2018",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Angreifende_Silberm%C3%B6we_auf_Spiekeroog,_Nationalpark_nieders%C3%A4chsisches_Wattenmeer_-_edited.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-86099005/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-86099005/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-180971510",
-     "title": "Black-backed jackal",
-     "creator": "Giles Laurent",
-     "date": "2025",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:136_Black-backed_jackal_hunting_for_food_at_Cape_cross_Photo_by_Giles_Laurent.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-180971510/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-180971510/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-18597260",
-     "title": "Hamadryas baboons",
-     "creator": "Till Niermann",
-     "date": "2012",
-     "source": "wikimedia",
-     "license": "CC BY-SA 3.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Papio_hamadryas_Cologne_Zoo.JPG",
-     "image": "https://fondos.fungicode.io/img/wm-18597260/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-18597260/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-109131929",
-     "title": "Crested tern",
-     "creator": "JJ Harrison",
-     "date": "2021",
-     "source": "wikimedia",
-     "license": "CC BY-SA 3.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Crested_Tern_-_Mortimer_Bay.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-109131929/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-109131929/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "wm-142133398",
-     "title": "Alpine chough",
-     "creator": "Giles Laurent",
-     "date": "2021",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:013_Wild_Alpine_chough_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-142133398/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-142133398/thumb.webp",
      "crop": [
       0,
       0,
@@ -2000,6 +2549,28 @@
     "pt": "Mar e céu"
    },
    "photos": [
+    {
+     "id": "lumen-seasky-01-lighthouse-in-the-storm",
+     "title": "Lighthouse in the storm",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-seasky-01-lighthouse-in-the-storm/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-seasky-01-lighthouse-in-the-storm/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.38,
+      0.5
+     ],
+     "free": true
+    },
     {
      "id": "wm-53660226",
      "title": "Northern lights, Estonia",
@@ -2042,7 +2613,7 @@
       0.5,
       0.5
      ],
-     "free": true
+     "free": false
     },
     {
      "id": "wm-179030861",
@@ -2498,6 +3069,94 @@
    },
    "photos": [
     {
+     "id": "lumen-space-01-earthrise-in-the-visor",
+     "title": "Earthrise in the visor",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-space-01-earthrise-in-the-visor/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-space-01-earthrise-in-the-visor/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.36,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-space-02-astronaut-on-the-moon",
+     "title": "Astronaut on the Moon",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-space-02-astronaut-on-the-moon/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-space-02-astronaut-on-the-moon/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-space-03-rocket-at-dusk",
+     "title": "Rocket at dusk",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-space-03-rocket-at-dusk/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-space-03-rocket-at-dusk/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-space-04-drifting-in-space",
+     "title": "Drifting in space",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-space-04-drifting-in-space/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-space-04-drifting-in-space/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
      "id": "nasa-carina_nebula",
      "title": "Cosmic Cliffs, Carina Nebula",
      "creator": "NASA, ESA, CSA, STScI",
@@ -2517,29 +3176,7 @@
       0.501,
       0.5
      ],
-     "free": true
-    },
-    {
-     "id": "nasa-southern_ring_nebula",
-     "title": "Southern Ring Nebula",
-     "creator": "NASA, ESA, CSA, STScI",
-     "date": "2022",
-     "source": "nasa",
-     "license": "Public domain",
-     "page": "https://images.nasa.gov/details/southern_ring_nebula",
-     "image": "https://fondos.fungicode.io/img/nasa-southern_ring_nebula/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/nasa-southern_ring_nebula/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.499,
-      0.5
-     ],
-     "free": true
+     "free": false
     },
     {
      "id": "nasa-GSFC_20171208_Archive_e000842",
@@ -2608,28 +3245,6 @@
      "free": false
     },
     {
-     "id": "nasa-PIA17172",
-     "title": "The Day the Earth Smiled",
-     "creator": "NASA/JPL-Caltech/SSI",
-     "date": "2013",
-     "source": "nasa",
-     "license": "Public domain",
-     "page": "https://images.nasa.gov/details/PIA17172",
-     "image": "https://fondos.fungicode.io/img/nasa-PIA17172/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/nasa-PIA17172/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "nasa-as17-148-22727",
      "title": "The Blue Marble",
      "creator": "NASA",
@@ -2639,94 +3254,6 @@
      "page": "https://images.nasa.gov/details/as17-148-22727",
      "image": "https://fondos.fungicode.io/img/nasa-as17-148-22727/full.webp",
      "thumb": "https://fondos.fungicode.io/img/nasa-as17-148-22727/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "nasa-as08-14-2383",
-     "title": "Earthrise",
-     "creator": "NASA",
-     "date": "1968",
-     "source": "nasa",
-     "license": "Public domain",
-     "page": "https://images.nasa.gov/details/as08-14-2383",
-     "image": "https://fondos.fungicode.io/img/nasa-as08-14-2383/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/nasa-as08-14-2383/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "nasa-art002e021278",
-     "title": "Earthset from Orion",
-     "creator": "NASA",
-     "date": "2026",
-     "source": "nasa",
-     "license": "Public domain",
-     "page": "https://images.nasa.gov/details/art002e021278",
-     "image": "https://fondos.fungicode.io/img/nasa-art002e021278/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/nasa-art002e021278/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "nasa-iss058e005282",
-     "title": "Aurora over the Earth",
-     "creator": "NASA",
-     "date": "2019",
-     "source": "nasa",
-     "license": "Public domain",
-     "page": "https://images.nasa.gov/details/iss058e005282",
-     "image": "https://fondos.fungicode.io/img/nasa-iss058e005282/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/nasa-iss058e005282/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
-     "id": "nasa-iss030e119777",
-     "title": "Aurora seen from the Space Station",
-     "creator": "NASA",
-     "date": "2012",
-     "source": "nasa",
-     "license": "Public domain",
-     "page": "https://images.nasa.gov/details/iss030e119777",
-     "image": "https://fondos.fungicode.io/img/nasa-iss030e119777/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/nasa-iss030e119777/thumb.webp",
      "crop": [
       0,
       0,

@@ -42,6 +42,13 @@ COLLECTION_NAMES = {
     "SeaSky": dict(en="Sea & sky", es="Mar y cielo", de="Meer & Himmel", fr="Mer et ciel", it="Mare e cielo",
                    pt="Mar e céu"),
     "Space": dict(en="Space", es="Espacio", de="Weltraum", fr="Espace", it="Spazio", pt="Espaço"),
+    "Japan": dict(en="Japan", es="Japón", de="Japan", fr="Japon", it="Giappone", pt="Japão"),
+    "Sports": dict(en="Sports", es="Deportes", de="Sport", fr="Sports", it="Sport", pt="Esportes"),
+    "Night": dict(en="Night", es="Noche", de="Nacht", fr="Nuit", it="Notte", pt="Noite"),
+    "Minimal": dict(en="Minimal", es="Minimal", de="Minimal", fr="Minimal", it="Minimal", pt="Minimal"),
+    "Rain": dict(en="Rain", es="Lluvia", de="Regen", fr="Pluie", it="Pioggia", pt="Chuva"),
+    "Fantasy": dict(en="Fantasy", es="Fantasía", de="Fantasie", fr="Imaginaire", it="Fantasia", pt="Fantasia"),
+    "Psychedelic": dict(en="Psychedelic", es="Psicodélicas", de="Psychedelisch", fr="Psychédélique", it="Psichedelia", pt="Psicodélicas"),
 }
 FREE_PER_COLLECTION = 2
 
@@ -205,7 +212,7 @@ def matches(src, out):
     b = Image.open(out).convert("RGB").resize((96, 170))
     # Region by region: a dark picture with a black strip still averages close to its source.
     cells = ImageChops.difference(a, b).convert("L").resize((12, 20), Image.BOX)
-    return max(cells.getextrema()) < 24
+    return max(cells.getextrema()) < 40
 
 
 def upscaled(f):
@@ -226,10 +233,28 @@ def upscaled(f):
     return out if out.exists() and matches(f, out) else None
 
 
-def originals(args):
-    """Each file in originals/inbox/ may come with <name>.json: {"id", "title", "focus", "free"}.
+# Folder names people may use in originals/inbox/ for a collection, besides its id.
+FOLDER_ALIASES = {
+    "animales": "Wildlife", "animals": "Wildlife", "japon": "Japan", "japón": "Japan",
+    "deporte": "Sports", "deportes": "Sports", "noche": "Night", "viajes": "Travel",
+    "naturaleza": "Nature", "espacio": "Space", "mar": "SeaSky", "minimal": "Minimal",
+    "lluvia": "Rain", "fantasia": "Fantasy", "fantasía": "Fantasy", "psicodelicas": "Psychedelic",
+}
 
-    Pictures go in the order of their "id" (else their file name). Small ones are upscaled first.
+
+def collection_for(folder):
+    name = folder.name
+    known = {cid.lower(): cid for cid in COLLECTION_NAMES}
+    return FOLDER_ALIASES.get(name.lower()) or known.get(name.lower()) or name
+
+
+def originals(args):
+    """Adds the pictures in originals/inbox/ as Lumen Originals.
+
+    Files right in inbox/ go to --collection (Originals); a subfolder is a collection, named by its
+    id or an alias ("japon", "deportes"…). Each picture may come with <name>.json: {"id", "title",
+    "focus", "free"}. Pictures go in the order of their "id" (else their file name). Small ones are
+    upscaled first. The catalog is saved after every picture, so a long run can be resumed.
     """
     inbox = ROOT / "originals" / "inbox"
     done = ROOT / "originals" / "done"
@@ -239,41 +264,65 @@ def originals(args):
         m = f.with_suffix(".json")
         return json.loads(m.read_text(encoding="utf-8")) if m.exists() else {}
 
-    files = sorted((p for p in inbox.iterdir() if p.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp")),
-                   key=lambda p: meta_of(p).get("id") or p.stem)
-    if not files:
+    def pictures(folder):
+        return sorted((p for p in folder.iterdir() if p.is_file() and p.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp")),
+                      key=lambda p: meta_of(p).get("id") or p.stem)
+
+    batches = [(args.collection, inbox)] + [(collection_for(d), d) for d in sorted(inbox.iterdir()) if d.is_dir()]
+    if not any(pictures(folder) for _, folder in batches):
         print("originals/inbox/ is empty")
         return
-    for f in files:
-        meta_file = f.with_suffix(".json")
-        meta = meta_of(f)
-        img = to_srgb(Image.open(f))
-        if min(img.size) < MIN_ORIGINAL_SHORT_SIDE:
-            big = upscaled(f)
-            if big is None:
-                print(f"! {f.name} is {img.width}×{img.height}: upscale it so its short side is at least "
-                      f"{MIN_ORIGINAL_SHORT_SIDE} px (or install Real-ESRGAN, see README). Skipped.")
-                continue
-            img = to_srgb(Image.open(big))
-        title = meta.get("title") or f.stem.replace("_", " ").replace("-", " ").strip().capitalize()
-        pid = "lumen-" + slug(meta.get("id") or f.stem)
-        img, focus = band(img, [0, 0, 1, 1], meta.get("focus", [0.5, 0.5]))
-        image, thumb = write(pid, img)
-        entry = {
-            "id": pid, "title": title, "creator": meta.get("creator", "Lumen"), "date": meta.get("date", ""),
-            "source": "lumen", "license": "Lumen", "page": meta.get("page", ""), "image": image, "thumb": thumb,
-            "crop": [0, 0, 1, 1], "focus": focus,
-        }
-        if "free" in meta:
-            entry["free"] = bool(meta["free"])
-        put(cat, args.collection, entry)
-        done.mkdir(exist_ok=True)
-        shutil.move(str(f), done / f.name)
-        if meta_file.exists():
-            shutil.move(str(meta_file), done / meta_file.name)
-    mark_free(cat)
+    for cid, folder in batches:
+        for f in pictures(folder):
+            meta_file = f.with_suffix(".json")
+            meta = meta_of(f)
+            img = to_srgb(Image.open(f))
+            if min(img.size) < MIN_ORIGINAL_SHORT_SIDE:
+                big = upscaled(f)
+                if big is None:
+                    print(f"! {f.name} is {img.width}×{img.height}: upscale it so its short side is at least "
+                          f"{MIN_ORIGINAL_SHORT_SIDE} px (or install Real-ESRGAN, see README). Skipped.")
+                    continue
+                img = to_srgb(Image.open(big))
+            title = meta.get("title") or f.stem.replace("_", " ").replace("-", " ").strip().capitalize()
+            pid = "lumen-" + slug(meta.get("id") or f.stem)
+            img, focus = band(img, [0, 0, 1, 1], meta.get("focus", [0.5, 0.5]))
+            image, thumb = write(pid, img)
+            entry = {
+                "id": pid, "title": title, "creator": meta.get("creator", "Lumen"), "date": meta.get("date", ""),
+                "source": "lumen", "license": "Lumen", "page": meta.get("page", ""), "image": image, "thumb": thumb,
+                "crop": [0, 0, 1, 1], "focus": focus,
+            }
+            if "free" in meta:
+                entry["free"] = bool(meta["free"])
+            put(cat, cid, entry)
+            target = done / folder.relative_to(inbox)
+            target.mkdir(parents=True, exist_ok=True)
+            shutil.move(str(f), target / f.name)
+            if meta_file.exists():
+                shutil.move(str(meta_file), target / meta_file.name)
+            mark_free(cat)
+            save_catalog(cat)
+        if folder != inbox and folder.exists() and not any(folder.iterdir()):
+            folder.rmdir()
+    credits(None)
+
+
+def arrange(args):
+    """Puts Lumen's own pictures first in every collection, the collections in --order, and makes
+    exactly the first FREE_PER_COLLECTION pictures of each collection free."""
+    cat = catalog()
+    order = [cid for cid in (args.order or "").split(",") if cid]
+    rank = {cid: i for i, cid in enumerate(order)}
+    cat["collections"].sort(key=lambda c: rank.get(c["id"], len(rank)))
+    for c in cat["collections"]:
+        c["photos"].sort(key=lambda p: p["source"] != "lumen")
+        for i, p in enumerate(c["photos"]):
+            p["free"] = i < FREE_PER_COLLECTION
     save_catalog(cat)
     credits(None)
+    for c in cat["collections"]:
+        print(f"{c['id']}: {len(c['photos'])}")
 
 
 SOURCE_NAMES = {"wikimedia": "Wikimedia Commons", "met": "The Metropolitan Museum of Art",
@@ -313,6 +362,9 @@ def main():
     p = sub.add_parser("originals")
     p.add_argument("--collection", default="Originals")
     p.set_defaults(run=originals)
+    p = sub.add_parser("arrange")
+    p.add_argument("--order", help="collection ids, comma-separated, in gallery order")
+    p.set_defaults(run=arrange)
     sub.add_parser("credits").set_defaults(run=credits)
     args = parser.parse_args()
     args.run(args)
