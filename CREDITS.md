@@ -88,6 +88,28 @@ Lumen Originals are made for Lumen.
 - **Glowing mushroom forest** — Lumen — Lumen — Lumen Originals
 - **Floating lighthouse** — Lumen — Lumen — Lumen Originals
 - **Astronaut in the wildflowers** — Lumen — Lumen — Lumen Originals
+- **Galaxy cat** — Lumen — Lumen — Lumen Originals
+
+## Pirates
+
+- **Ghost ship** — Lumen — Lumen — Lumen Originals
+- **Captain at sunset** — Lumen — Lumen — Lumen Originals
+- **Sunken galleon** — Lumen — Lumen — Lumen Originals
+- **Tattered flag** — Lumen — Lumen — Lumen Originals
+- **Treasure map** — Lumen — Lumen — Lumen Originals
+- **Compass and spyglass** — Lumen — Lumen — Lumen Originals
+- **Treasure on the shore** — Lumen — Lumen — Lumen Originals
+- **Tavern table** — Lumen — Lumen — Lumen Originals
+- **Ship's hold** — Lumen — Lumen — Lumen Originals
+- **Emerald bottle** — Lumen — Lumen — Lumen Originals
+
+## Little things
+
+- **Curious cat** — Lumen — Lumen — Lumen Originals
+- **Paper boat** — Lumen — Lumen — Lumen Originals
+- **Astronaut on a ledge** — Lumen — Lumen — Lumen Originals
+- **Monstera** — Lumen — Lumen — Lumen Originals
+- **Sparrow on a wire** — Lumen — Lumen — Lumen Originals
 
 ## Travel
 

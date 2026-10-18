@@ -1497,6 +1497,384 @@
       0.5
      ],
      "free": false
+    },
+    {
+     "id": "lumen-fantasy-01-galaxy-cat",
+     "title": "Galaxy cat",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-fantasy-01-galaxy-cat/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-fantasy-01-galaxy-cat/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.75
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Pirates",
+   "names": {
+    "en": "Pirates",
+    "es": "Piratas",
+    "de": "Piraten",
+    "fr": "Pirates",
+    "it": "Pirati",
+    "pt": "Piratas"
+   },
+   "photos": [
+    {
+     "id": "lumen-pirates-01-ghost-ship",
+     "title": "Ghost ship",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-pirates-01-ghost-ship/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-pirates-01-ghost-ship/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.6,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-pirates-02-captain-at-sunset",
+     "title": "Captain at sunset",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-pirates-02-captain-at-sunset/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-pirates-02-captain-at-sunset/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.6
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-pirates-03-sunken-galleon",
+     "title": "Sunken galleon",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-pirates-03-sunken-galleon/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-pirates-03-sunken-galleon/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.6
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-pirates-04-tattered-flag",
+     "title": "Tattered flag",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-pirates-04-tattered-flag/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-pirates-04-tattered-flag/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-pirates-05-treasure-map",
+     "title": "Treasure map",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-pirates-05-treasure-map/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-pirates-05-treasure-map/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-pirates-06-compass-and-spyglass",
+     "title": "Compass and spyglass",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-pirates-06-compass-and-spyglass/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-pirates-06-compass-and-spyglass/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.55
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-pirates-07-treasure-on-the-shore",
+     "title": "Treasure on the shore",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-pirates-07-treasure-on-the-shore/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-pirates-07-treasure-on-the-shore/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.75
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-pirates-08-tavern-table",
+     "title": "Tavern table",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-pirates-08-tavern-table/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-pirates-08-tavern-table/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.6
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-pirates-09-ship-s-hold",
+     "title": "Ship's hold",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-pirates-09-ship-s-hold/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-pirates-09-ship-s-hold/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-pirates-10-emerald-bottle",
+     "title": "Emerald bottle",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-pirates-10-emerald-bottle/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-pirates-10-emerald-bottle/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.45,
+      0.6
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Details",
+   "names": {
+    "en": "Little things",
+    "es": "Detalles",
+    "de": "Kleinigkeiten",
+    "fr": "Petits riens",
+    "it": "Dettagli",
+    "pt": "Detalhes"
+   },
+   "photos": [
+    {
+     "id": "lumen-details-01-curious-cat",
+     "title": "Curious cat",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-details-01-curious-cat/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-details-01-curious-cat/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.55,
+      0.9
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-details-02-paper-boat",
+     "title": "Paper boat",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-details-02-paper-boat/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-details-02-paper-boat/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.75,
+      0.72
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-details-03-astronaut-on-a-ledge",
+     "title": "Astronaut on a ledge",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-details-03-astronaut-on-a-ledge/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-details-03-astronaut-on-a-ledge/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.8,
+      0.85
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-details-04-monstera",
+     "title": "Monstera",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-details-04-monstera/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-details-04-monstera/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.65,
+      0.85
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-details-05-sparrow-on-a-wire",
+     "title": "Sparrow on a wire",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-details-05-sparrow-on-a-wire/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-details-05-sparrow-on-a-wire/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.75,
+      0.73
+     ],
+     "free": false
     }
    ]
   },

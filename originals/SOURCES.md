@@ -76,6 +76,26 @@ OpenAI's terms assign the output to the user, commercial use included.
 - `lumen-06-glowing-mushroom-forest`: Glowing mushroom forest
 - `lumen-03-floating-lighthouse`: Floating lighthouse
 - `lumen-05-astronaut-in-the-wildflowers`: Astronaut in the wildflowers
+- `lumen-fantasy-01-galaxy-cat`: Galaxy cat
+
+## Pirates
+- `lumen-pirates-01-ghost-ship`: Ghost ship
+- `lumen-pirates-02-captain-at-sunset`: Captain at sunset
+- `lumen-pirates-03-sunken-galleon`: Sunken galleon
+- `lumen-pirates-04-tattered-flag`: Tattered flag
+- `lumen-pirates-05-treasure-map`: Treasure map
+- `lumen-pirates-06-compass-and-spyglass`: Compass and spyglass
+- `lumen-pirates-07-treasure-on-the-shore`: Treasure on the shore
+- `lumen-pirates-08-tavern-table`: Tavern table
+- `lumen-pirates-09-ship-s-hold`: Ship's hold
+- `lumen-pirates-10-emerald-bottle`: Emerald bottle
+
+## Little things
+- `lumen-details-01-curious-cat`: Curious cat
+- `lumen-details-02-paper-boat`: Paper boat
+- `lumen-details-03-astronaut-on-a-ledge`: Astronaut on a ledge
+- `lumen-details-04-monstera`: Monstera
+- `lumen-details-05-sparrow-on-a-wire`: Sparrow on a wire
 
 ## Travel
 - `lumen-travel-01-vespa-in-tuscany`: Vespa in Tuscany
