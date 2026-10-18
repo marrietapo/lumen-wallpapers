@@ -120,7 +120,6 @@ Lumen Originals are made for Lumen.
 - **Torii in the mist** — Lumen — Lumen — Lumen Originals
 - **Red lanterns in the rain** — Lumen — Lumen — Lumen Originals
 - **Kinkaku-ji, Kyoto** — Martin Falbisoner, 2016 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Kinkaku-ji_in_November_2016_-02.jpg>
-- **Midtown Manhattan at night** — King of Hearts — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Midtown_Manhattan_from_Jersey_City_September_2020_HDR.jpg>
 - **Kiyomizu-dera, Kyoto** — Martin Falbisoner, 2016 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-07.jpg>
 - **Venice awakes** — Benh Lieu Song, 2015 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Venice_awakes_(20618763815).jpg>
 - **Manhattan Bridge from Dumbo** — Superbass, 2024 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:2024-11-17-Manhattan_Bridge_Dumbo-0407.jpg>

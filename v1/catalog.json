@@ -2044,28 +2044,6 @@
      "free": false
     },
     {
-     "id": "wm-95660829",
-     "title": "Midtown Manhattan at night",
-     "creator": "King of Hearts",
-     "date": "",
-     "source": "wikimedia",
-     "license": "CC BY-SA 4.0",
-     "page": "https://commons.wikimedia.org/wiki/File:Midtown_Manhattan_from_Jersey_City_September_2020_HDR.jpg",
-     "image": "https://fondos.fungicode.io/img/wm-95660829/full.webp",
-     "thumb": "https://fondos.fungicode.io/img/wm-95660829/thumb.webp",
-     "crop": [
-      0,
-      0,
-      1,
-      1
-     ],
-     "focus": [
-      0.5,
-      0.5
-     ],
-     "free": false
-    },
-    {
      "id": "wm-53618736",
      "title": "Kiyomizu-dera, Kyoto",
      "creator": "Martin Falbisoner",
