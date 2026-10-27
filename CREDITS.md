@@ -17,6 +17,7 @@ Lumen Originals are made for Lumen.
 - **Fisherman's lake** — Lumen — Lumen — Lumen Originals
 - **Sumi-e lake** — Lumen — Lumen — Lumen Originals
 - **Red sun over the mountain** — Lumen — Lumen — Lumen Originals
+- **Lone ronin beneath the red sun** — Lumen — Lumen — Lumen Originals
 
 ## Wildlife
 
@@ -32,6 +33,8 @@ Lumen Originals are made for Lumen.
 - **Robin on a branch** — Lumen — Lumen — Lumen Originals
 - **Sea turtle** — Lumen — Lumen — Lumen Originals
 - **Cat at golden hour** — Lumen — Lumen — Lumen Originals
+- **Majestic humpback beneath sunlit waters** — Lumen — Lumen — Lumen Originals
+- **Whale beneath the sunlit surface** — Lumen — Lumen — Lumen Originals
 - **Lion, Serengeti** — Giles Laurent, 2020 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:011_The_lion_king_Tryggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg>
 - **Dolphin, Eilat** — טל שמע, 2017 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Eilat_Dolphin_Reef_(3).jpg>
 - **Snow leopard** — Tambako The Jaguar, Niabot, 2009 — CC BY-SA 2.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Snow_leopard_portrait-2010-07-09.jpg>
@@ -72,6 +75,7 @@ Lumen Originals are made for Lumen.
 - **Watercolor pebbles** — Lumen — Lumen — Lumen Originals
 - **Red balloon over the valley** — Lumen — Lumen — Lumen Originals
 - **Lone bird** — Lumen — Lumen — Lumen Originals
+- **Serene pastel watercolor landscape** — Lumen — Lumen — Lumen Originals
 
 ## Rain
 
@@ -81,6 +85,7 @@ Lumen Originals are made for Lumen.
 - **Coffee on a rainy day** — Lumen — Lumen — Lumen Originals
 - **Misty London** — Lumen — Lumen — Lumen Originals
 - **Under a clear umbrella** — Lumen — Lumen — Lumen Originals
+- **Dew kissed lotus in the dark** — Lumen — Lumen — Lumen Originals
 
 ## Fantasy
 
@@ -89,6 +94,14 @@ Lumen Originals are made for Lumen.
 - **Floating lighthouse** — Lumen — Lumen — Lumen Originals
 - **Astronaut in the wildflowers** — Lumen — Lumen — Lumen Originals
 - **Galaxy cat** — Lumen — Lumen — Lumen Originals
+
+## Warriors
+
+- **Crimson knight beneath the ruined castle** — Lumen — Lumen — Lumen Originals
+- **Lone gladiator at sunset** — Lumen — Lumen — Lumen Originals
+- **Rain soaked samurai at the temple** — Lumen — Lumen — Lumen Originals
+- **Viking longship in the misty fjord** — Lumen — Lumen — Lumen Originals
+- **Warrior over the misty fjord** — Lumen — Lumen — Lumen Originals
 
 ## Pirates
 
@@ -103,6 +116,33 @@ Lumen Originals are made for Lumen.
 - **Ship's hold** — Lumen — Lumen — Lumen Originals
 - **Emerald bottle** — Lumen — Lumen — Lumen Originals
 
+## Kawaii
+
+- **Cozy penguin in falling snow** — Lumen — Lumen — Lumen Originals
+- **Kawaii bunny in a mint garden** — Lumen — Lumen — Lumen Originals
+- **Kawaii kitten in a floral teacup** — Lumen — Lumen — Lumen Originals
+- **Kawaii moon and star cuddle** — Lumen — Lumen — Lumen Originals
+- **Kawaii snack friends wallpaper** — Lumen — Lumen — Lumen Originals
+- **Sleeping black cat on lavender blue** — Lumen — Lumen — Lumen Originals
+- **Sleeping cloud under starry dreams** — Lumen — Lumen — Lumen Originals
+
+## Stickers
+
+- **Astronaut skateboarder in space** — Lumen — Lumen — Lumen Originals
+- **Chill skeleton astronaut on the moon** — Lumen — Lumen — Lumen Originals
+- **Cosmic duck sticker on coral** — Lumen — Lumen — Lumen Originals
+- **Kawaii octopus ramen sticker** — Lumen — Lumen — Lumen Originals
+- **Kawaii sushi stack on a peach background** — Lumen — Lumen — Lumen Originals
+- **Neon alien watering a plant** — Lumen — Lumen — Lumen Originals
+- **Neon donut planet sticker** — Lumen — Lumen — Lumen Originals
+- **Neon ufo cow abduction sticker** — Lumen — Lumen — Lumen Originals
+- **Pizza delivery shark wheelie** — Lumen — Lumen — Lumen Originals
+- **Relaxed raccoon astronaut sticker** — Lumen — Lumen — Lumen Originals
+- **Shiba inu riding a koi wave** — Lumen — Lumen — Lumen Originals
+- **Sleeping dragon and magical books** — Lumen — Lumen — Lumen Originals
+- **Sleeping sushi cat sticker** — Lumen — Lumen — Lumen Originals
+- **Sunglasses cow ufo abduction** — Lumen — Lumen — Lumen Originals
+
 ## Little things
 
 - **Curious cat** — Lumen — Lumen — Lumen Originals
@@ -110,6 +150,14 @@ Lumen Originals are made for Lumen.
 - **Astronaut on a ledge** — Lumen — Lumen — Lumen Originals
 - **Monstera** — Lumen — Lumen — Lumen Originals
 - **Sparrow on a wire** — Lumen — Lumen — Lumen Originals
+
+## Windows & doors
+
+- **Golden round window in stone wall** — Lumen — Lumen — Lumen Originals
+- **Moroccan blue doorway in sunlight** — Lumen — Lumen — Lumen Originals
+- **Sunlit blue facade with geranium window** — Lumen — Lumen — Lumen Originals
+- **Sunlit mediterranean window with geraniums** — Lumen — Lumen — Lumen Originals
+- **Sunlit terracotta wall with red geraniums** — Lumen — Lumen — Lumen Originals
 
 ## Travel
 
@@ -119,6 +167,16 @@ Lumen Originals are made for Lumen.
 - **Above the clouds** — Lumen — Lumen — Lumen Originals
 - **Torii in the mist** — Lumen — Lumen — Lumen Originals
 - **Red lanterns in the rain** — Lumen — Lumen — Lumen Originals
+- **Airliner against an endless blue sky** — Lumen — Lumen — Lumen Originals
+- **Dreamy watercolor beach escape** — Lumen — Lumen — Lumen Originals
+- **El mundo te está esperando** — Lumen — Lumen — Lumen Originals
+- **Santorini sunset watercolor village** — Lumen — Lumen — Lumen Originals
+- **Sunlit coastal travel nook** — Lumen — Lumen — Lumen Originals
+- **Sunset departure lounge watercolor** — Lumen — Lumen — Lumen Originals
+- **Vintage airport departure board** — Lumen — Lumen — Lumen Originals
+- **Warm terracotta passport flat lay** — Lumen — Lumen — Lumen Originals
+- **Watercolor sunrise above the clouds** — Lumen — Lumen — Lumen Originals
+- **Watercolor wanderlust map flat lay** — Lumen — Lumen — Lumen Originals
 - **Kinkaku-ji, Kyoto** — Martin Falbisoner, 2016 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Kinkaku-ji_in_November_2016_-02.jpg>
 - **Kiyomizu-dera, Kyoto** — Martin Falbisoner, 2016 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-07.jpg>
 - **Venice awakes** — Benh Lieu Song, 2015 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Venice_awakes_(20618763815).jpg>
@@ -135,6 +193,15 @@ Lumen Originals are made for Lumen.
 - **Okayama Castle** — Martin Falbisoner, 2016 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Okayama_Castle,_November_2016_-02.jpg>
 - **Nara Park in autumn** — Martin Falbisoner, 2016 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Nara_Park,_November_2016.jpg>
 - **Frankfurt skyline** — Christian Wolf — CC BY-SA 3.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main_2015.jpg>
+
+## Roads
+
+- **Golden hour road to the lone tree** — Lumen — Lumen — Lumen Originals
+- **Golden road to snowy peaks** — Lumen — Lumen — Lumen Originals
+- **Milky way road to the horizon** — Lumen — Lumen — Lumen Originals
+- **Misty mountain road through the clouds** — Lumen — Lumen — Lumen Originals
+- **Mossy volcanic road under sunbeams** — Lumen — Lumen — Lumen Originals
+- **Sunset road along the cliffs** — Lumen — Lumen — Lumen Originals
 
 ## Nature
 
@@ -159,6 +226,8 @@ Lumen Originals are made for Lumen.
 ## Sea & sky
 
 - **Lighthouse in the storm** — Lumen — Lumen — Lumen Originals
+- **Lighthouse beacon through misty night cliffs** — Lumen — Lumen — Lumen Originals
+- **Starlit lighthouse over rocky seas** — Lumen — Lumen — Lumen Originals
 - **Northern lights, Estonia** — Kristian Pikner, 2015 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Virmalised_18.03.15_(4).jpg>
 - **Nosy Iranja, Madagascar** — Diego Delso, 2025 — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Nosy_Iranja,_Madagascar,_2025-09-17,_DD_21.jpg>
 - **Ilhéus da Ribeira da Janela, Madeira** — Dietmar Rabich — CC BY-SA 4.0 — Wikimedia Commons — <https://commons.wikimedia.org/wiki/File:Ribeira_da_Janela_(Madeira,_Portugal),_Ilheus_da_Rib_--_2025_--_1582.jpg>
@@ -181,6 +250,8 @@ Lumen Originals are made for Lumen.
 - **Astronaut on the Moon** — Lumen — Lumen — Lumen Originals
 - **Rocket at dusk** — Lumen — Lumen — Lumen Originals
 - **Drifting in space** — Lumen — Lumen — Lumen Originals
+- **Astronaut’s earthlit visor** — Lumen — Lumen — Lumen Originals
+- **Lone astronaut beneath the milky way** — Lumen — Lumen — Lumen Originals
 - **Cosmic Cliffs, Carina Nebula** — NASA, ESA, CSA, STScI, 2022 — Public domain — NASA — <https://images.nasa.gov/details/carina_nebula>
 - **Pillars of Creation** — NASA, ESA, and the Hubble Heritage Team (STScI/AURA), 2017 — Public domain — NASA — <https://images.nasa.gov/details/GSFC_20171208_Archive_e000842>
 - **Mystic Mountain** — NASA, ESA, and M. Livio and the Hubble 20th Anniversary Team (STScI), 2017 — Public domain — NASA — <https://images.nasa.gov/details/GSFC_20171208_Archive_e002064>

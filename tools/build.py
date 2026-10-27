@@ -51,6 +51,12 @@ COLLECTION_NAMES = {
     "Psychedelic": dict(en="Psychedelic", es="Psicodélicas", de="Psychedelisch", fr="Psychédélique", it="Psichedelia", pt="Psicodélicas"),
     "Pirates": dict(en="Pirates", es="Piratas", de="Piraten", fr="Pirates", it="Pirati", pt="Piratas"),
     "Details": dict(en="Little things", es="Detalles", de="Kleinigkeiten", fr="Petits riens", it="Dettagli", pt="Detalhes"),
+    "Roads": dict(en="Roads", es="Carreteras", de="Straßen", fr="Routes", it="Strade", pt="Estradas"),
+    "Warriors": dict(en="Warriors", es="Guerreros", de="Krieger", fr="Guerriers", it="Guerrieri", pt="Guerreiros"),
+    "Kawaii": dict(en="Kawaii", es="Kawaii", de="Kawaii", fr="Kawaii", it="Kawaii", pt="Kawaii"),
+    "Stickers": dict(en="Stickers", es="Stickers", de="Sticker", fr="Stickers", it="Sticker", pt="Adesivos"),
+    "Windows": dict(en="Windows & doors", es="Ventanas y puertas", de="Fenster & Türen", fr="Fenêtres et portes",
+                    it="Finestre e porte", pt="Janelas e portas"),
 }
 FREE_PER_COLLECTION = 2
 
@@ -241,7 +247,8 @@ FOLDER_ALIASES = {
     "deporte": "Sports", "deportes": "Sports", "noche": "Night", "viajes": "Travel",
     "naturaleza": "Nature", "espacio": "Space", "mar": "SeaSky", "minimal": "Minimal",
     "lluvia": "Rain", "fantasia": "Fantasy", "fantasía": "Fantasy", "psicodelicas": "Psychedelic",
-    "piratas": "Pirates", "detalles": "Details",
+    "piratas": "Pirates", "detalles": "Details", "mar y cielo": "SeaSky", "carreteras": "Roads",
+    "guerrero": "Warriors", "guerreros": "Warriors", "ventanas": "Windows",
 }
 
 

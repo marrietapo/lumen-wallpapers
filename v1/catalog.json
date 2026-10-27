@@ -253,6 +253,28 @@
       0.5
      ],
      "free": false
+    },
+    {
+     "id": "lumen-lone-ronin-beneath-the-red-sun",
+     "title": "Lone ronin beneath the red sun",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-lone-ronin-beneath-the-red-sun/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-lone-ronin-beneath-the-red-sun/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
     }
    ]
   },
@@ -527,6 +549,50 @@
      ],
      "focus": [
       0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-majestic-humpback-beneath-sunlit-waters",
+     "title": "Majestic humpback beneath sunlit waters",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-majestic-humpback-beneath-sunlit-waters/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-majestic-humpback-beneath-sunlit-waters/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-whale-beneath-the-sunlit-surface",
+     "title": "Whale beneath the sunlit surface",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-whale-beneath-the-sunlit-surface/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-whale-beneath-the-sunlit-surface/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
       0.5
      ],
      "free": false
@@ -1251,6 +1317,28 @@
       0.5
      ],
      "free": false
+    },
+    {
+     "id": "lumen-serene-pastel-watercolor-landscape",
+     "title": "Serene pastel watercolor landscape",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-serene-pastel-watercolor-landscape/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-serene-pastel-watercolor-landscape/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
     }
    ]
   },
@@ -1396,6 +1484,28 @@
       0.5
      ],
      "free": false
+    },
+    {
+     "id": "lumen-dew-kissed-lotus-in-the-dark",
+     "title": "Dew kissed lotus in the dark",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-dew-kissed-lotus-in-the-dark/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-dew-kissed-lotus-in-the-dark/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
     }
    ]
   },
@@ -1517,6 +1627,129 @@
      "focus": [
       0.45,
       0.75
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Warriors",
+   "names": {
+    "en": "Warriors",
+    "es": "Guerreros",
+    "de": "Krieger",
+    "fr": "Guerriers",
+    "it": "Guerrieri",
+    "pt": "Guerreiros"
+   },
+   "photos": [
+    {
+     "id": "lumen-crimson-knight-beneath-the-ruined-castle",
+     "title": "Crimson knight beneath the ruined castle",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-crimson-knight-beneath-the-ruined-castle/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-crimson-knight-beneath-the-ruined-castle/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-lone-gladiator-at-sunset",
+     "title": "Lone gladiator at sunset",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-lone-gladiator-at-sunset/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-lone-gladiator-at-sunset/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-rain-soaked-samurai-at-the-temple",
+     "title": "Rain soaked samurai at the temple",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-rain-soaked-samurai-at-the-temple/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-rain-soaked-samurai-at-the-temple/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-viking-longship-in-the-misty-fjord",
+     "title": "Viking longship in the misty fjord",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-viking-longship-in-the-misty-fjord/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-viking-longship-in-the-misty-fjord/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-warrior-over-the-misty-fjord",
+     "title": "Warrior over the misty fjord",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-warrior-over-the-misty-fjord/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-warrior-over-the-misty-fjord/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
      ],
      "free": false
     }
@@ -1756,6 +1989,494 @@
    ]
   },
   {
+   "id": "Kawaii",
+   "names": {
+    "en": "Kawaii",
+    "es": "Kawaii",
+    "de": "Kawaii",
+    "fr": "Kawaii",
+    "it": "Kawaii",
+    "pt": "Kawaii"
+   },
+   "photos": [
+    {
+     "id": "lumen-cozy-penguin-in-falling-snow",
+     "title": "Cozy penguin in falling snow",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-cozy-penguin-in-falling-snow/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-cozy-penguin-in-falling-snow/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-kawaii-bunny-in-a-mint-garden",
+     "title": "Kawaii bunny in a mint garden",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-kawaii-bunny-in-a-mint-garden/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-kawaii-bunny-in-a-mint-garden/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-kawaii-kitten-in-a-floral-teacup",
+     "title": "Kawaii kitten in a floral teacup",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-kawaii-kitten-in-a-floral-teacup/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-kawaii-kitten-in-a-floral-teacup/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.7,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-kawaii-moon-and-star-cuddle",
+     "title": "Kawaii moon and star cuddle",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-kawaii-moon-and-star-cuddle/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-kawaii-moon-and-star-cuddle/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-kawaii-snack-friends-wallpaper",
+     "title": "Kawaii snack friends wallpaper",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-kawaii-snack-friends-wallpaper/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-kawaii-snack-friends-wallpaper/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sleeping-black-cat-on-lavender-blue",
+     "title": "Sleeping black cat on lavender blue",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sleeping-black-cat-on-lavender-blue/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sleeping-black-cat-on-lavender-blue/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.3,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sleeping-cloud-under-starry-dreams",
+     "title": "Sleeping cloud under starry dreams",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sleeping-cloud-under-starry-dreams/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sleeping-cloud-under-starry-dreams/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Stickers",
+   "names": {
+    "en": "Stickers",
+    "es": "Stickers",
+    "de": "Sticker",
+    "fr": "Stickers",
+    "it": "Sticker",
+    "pt": "Adesivos"
+   },
+   "photos": [
+    {
+     "id": "lumen-astronaut-skateboarder-in-space",
+     "title": "Astronaut skateboarder in space",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-astronaut-skateboarder-in-space/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-astronaut-skateboarder-in-space/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.7,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-chill-skeleton-astronaut-on-the-moon",
+     "title": "Chill skeleton astronaut on the moon",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-chill-skeleton-astronaut-on-the-moon/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-chill-skeleton-astronaut-on-the-moon/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.65,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-cosmic-duck-sticker-on-coral",
+     "title": "Cosmic duck sticker on coral",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-cosmic-duck-sticker-on-coral/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-cosmic-duck-sticker-on-coral/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.75,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-kawaii-octopus-ramen-sticker",
+     "title": "Kawaii octopus ramen sticker",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-kawaii-octopus-ramen-sticker/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-kawaii-octopus-ramen-sticker/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.3,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-kawaii-sushi-stack-on-a-peach-background",
+     "title": "Kawaii sushi stack on a peach background",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-kawaii-sushi-stack-on-a-peach-background/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-kawaii-sushi-stack-on-a-peach-background/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.7,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-neon-alien-watering-a-plant",
+     "title": "Neon alien watering a plant",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-neon-alien-watering-a-plant/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-neon-alien-watering-a-plant/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.3,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-neon-donut-planet-sticker",
+     "title": "Neon donut planet sticker",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-neon-donut-planet-sticker/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-neon-donut-planet-sticker/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.6,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-neon-ufo-cow-abduction-sticker",
+     "title": "Neon ufo cow abduction sticker",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-neon-ufo-cow-abduction-sticker/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-neon-ufo-cow-abduction-sticker/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-pizza-delivery-shark-wheelie",
+     "title": "Pizza delivery shark wheelie",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-pizza-delivery-shark-wheelie/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-pizza-delivery-shark-wheelie/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.75,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-relaxed-raccoon-astronaut-sticker",
+     "title": "Relaxed raccoon astronaut sticker",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-relaxed-raccoon-astronaut-sticker/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-relaxed-raccoon-astronaut-sticker/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.65,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-shiba-inu-riding-a-koi-wave",
+     "title": "Shiba inu riding a koi wave",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-shiba-inu-riding-a-koi-wave/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-shiba-inu-riding-a-koi-wave/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.75,
+      0.2
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sleeping-dragon-and-magical-books",
+     "title": "Sleeping dragon and magical books",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sleeping-dragon-and-magical-books/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sleeping-dragon-and-magical-books/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.6,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sleeping-sushi-cat-sticker",
+     "title": "Sleeping sushi cat sticker",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sleeping-sushi-cat-sticker/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sleeping-sushi-cat-sticker/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.7,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sunglasses-cow-ufo-abduction",
+     "title": "Sunglasses cow ufo abduction",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sunglasses-cow-ufo-abduction/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sunglasses-cow-ufo-abduction/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.75,
+      0.2
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
    "id": "Details",
    "names": {
     "en": "Little things",
@@ -1873,6 +2594,129 @@
      "focus": [
       0.75,
       0.73
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Windows",
+   "names": {
+    "en": "Windows & doors",
+    "es": "Ventanas y puertas",
+    "de": "Fenster & Türen",
+    "fr": "Fenêtres et portes",
+    "it": "Finestre e porte",
+    "pt": "Janelas e portas"
+   },
+   "photos": [
+    {
+     "id": "lumen-golden-round-window-in-stone-wall",
+     "title": "Golden round window in stone wall",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-golden-round-window-in-stone-wall/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-golden-round-window-in-stone-wall/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-moroccan-blue-doorway-in-sunlight",
+     "title": "Moroccan blue doorway in sunlight",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-moroccan-blue-doorway-in-sunlight/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-moroccan-blue-doorway-in-sunlight/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-sunlit-blue-facade-with-geranium-window",
+     "title": "Sunlit blue facade with geranium window",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sunlit-blue-facade-with-geranium-window/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sunlit-blue-facade-with-geranium-window/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sunlit-mediterranean-window-with-geraniu",
+     "title": "Sunlit mediterranean window with geraniums",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sunlit-mediterranean-window-with-geraniu/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sunlit-mediterranean-window-with-geraniu/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sunlit-terracotta-wall-with-red-geranium",
+     "title": "Sunlit terracotta wall with red geraniums",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sunlit-terracotta-wall-with-red-geranium/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sunlit-terracotta-wall-with-red-geranium/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
      ],
      "free": false
     }
@@ -2017,6 +2861,226 @@
      ],
      "focus": [
       0.4,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-airliner-against-an-endless-blue-sky",
+     "title": "Airliner against an endless blue sky",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-airliner-against-an-endless-blue-sky/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-airliner-against-an-endless-blue-sky/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-dreamy-watercolor-beach-escape",
+     "title": "Dreamy watercolor beach escape",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-dreamy-watercolor-beach-escape/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-dreamy-watercolor-beach-escape/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-el-mundo-te-est-esperando",
+     "title": "El mundo te está esperando",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-el-mundo-te-est-esperando/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-el-mundo-te-est-esperando/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-santorini-sunset-watercolor-village",
+     "title": "Santorini sunset watercolor village",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-santorini-sunset-watercolor-village/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-santorini-sunset-watercolor-village/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sunlit-coastal-travel-nook",
+     "title": "Sunlit coastal travel nook",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sunlit-coastal-travel-nook/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sunlit-coastal-travel-nook/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sunset-departure-lounge-watercolor",
+     "title": "Sunset departure lounge watercolor",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sunset-departure-lounge-watercolor/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sunset-departure-lounge-watercolor/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-vintage-airport-departure-board",
+     "title": "Vintage airport departure board",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-vintage-airport-departure-board/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-vintage-airport-departure-board/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-warm-terracotta-passport-flat-lay",
+     "title": "Warm terracotta passport flat lay",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-warm-terracotta-passport-flat-lay/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-warm-terracotta-passport-flat-lay/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-watercolor-sunrise-above-the-clouds",
+     "title": "Watercolor sunrise above the clouds",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-watercolor-sunrise-above-the-clouds/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-watercolor-sunrise-above-the-clouds/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-watercolor-wanderlust-map-flat-lay",
+     "title": "Watercolor wanderlust map flat lay",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-watercolor-wanderlust-map-flat-lay/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-watercolor-wanderlust-map-flat-lay/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
       0.5
      ],
      "free": false
@@ -2361,6 +3425,151 @@
      "page": "https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main_2015.jpg",
      "image": "https://fondos.fungicode.io/img/wm-44448489/full.webp",
      "thumb": "https://fondos.fungicode.io/img/wm-44448489/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    }
+   ]
+  },
+  {
+   "id": "Roads",
+   "names": {
+    "en": "Roads",
+    "es": "Carreteras",
+    "de": "Straßen",
+    "fr": "Routes",
+    "it": "Strade",
+    "pt": "Estradas"
+   },
+   "photos": [
+    {
+     "id": "lumen-golden-hour-road-to-the-lone-tree",
+     "title": "Golden hour road to the lone tree",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-golden-hour-road-to-the-lone-tree/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-golden-hour-road-to-the-lone-tree/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-golden-road-to-snowy-peaks",
+     "title": "Golden road to snowy peaks",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-golden-road-to-snowy-peaks/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-golden-road-to-snowy-peaks/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-milky-way-road-to-the-horizon",
+     "title": "Milky way road to the horizon",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-milky-way-road-to-the-horizon/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-milky-way-road-to-the-horizon/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-misty-mountain-road-through-the-clouds",
+     "title": "Misty mountain road through the clouds",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-misty-mountain-road-through-the-clouds/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-misty-mountain-road-through-the-clouds/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-mossy-volcanic-road-under-sunbeams",
+     "title": "Mossy volcanic road under sunbeams",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-mossy-volcanic-road-under-sunbeams/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-mossy-volcanic-road-under-sunbeams/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-sunset-road-along-the-cliffs",
+     "title": "Sunset road along the cliffs",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-sunset-road-along-the-cliffs/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-sunset-road-along-the-cliffs/thumb.webp",
      "crop": [
       0,
       0,
@@ -2796,6 +4005,50 @@
      "free": true
     },
     {
+     "id": "lumen-lighthouse-beacon-through-misty-night-cl",
+     "title": "Lighthouse beacon through misty night cliffs",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-lighthouse-beacon-through-misty-night-cl/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-lighthouse-beacon-through-misty-night-cl/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": true
+    },
+    {
+     "id": "lumen-starlit-lighthouse-over-rocky-seas",
+     "title": "Starlit lighthouse over rocky seas",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-starlit-lighthouse-over-rocky-seas/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-starlit-lighthouse-over-rocky-seas/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
      "id": "wm-53660226",
      "title": "Northern lights, Estonia",
      "creator": "Kristian Pikner",
@@ -2815,7 +4068,7 @@
       0.5,
       0.5
      ],
-     "free": true
+     "free": false
     },
     {
      "id": "wm-193367311",
@@ -3222,6 +4475,50 @@
      ],
      "focus": [
       0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-astronaut-s-earthlit-visor",
+     "title": "Astronaut’s earthlit visor",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-astronaut-s-earthlit-visor/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-astronaut-s-earthlit-visor/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.5,
+      0.5
+     ],
+     "free": false
+    },
+    {
+     "id": "lumen-lone-astronaut-beneath-the-milky-way",
+     "title": "Lone astronaut beneath the milky way",
+     "creator": "Lumen",
+     "date": "",
+     "source": "lumen",
+     "license": "Lumen",
+     "page": "",
+     "image": "https://fondos.fungicode.io/img/lumen-lone-astronaut-beneath-the-milky-way/full.webp",
+     "thumb": "https://fondos.fungicode.io/img/lumen-lone-astronaut-beneath-the-milky-way/thumb.webp",
+     "crop": [
+      0,
+      0,
+      1,
+      1
+     ],
+     "focus": [
+      0.7,
       0.5
      ],
      "free": false
