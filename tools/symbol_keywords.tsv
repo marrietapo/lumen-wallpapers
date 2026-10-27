@@ -1,0 +1,158 @@
+# Material Symbols names → words people type in Lumen's other languages (English comes from Google's tags).
+# symbol	es	de	fr	it	pt  (comma-separated words; tabs between languages)
+flight	avión,vuelo,aerolínea,viaje,aeropuerto	flugzeug,flug,fluglinie,flughafen	avion,vol,compagnie aérienne,aéroport	aereo,volo,compagnia aerea,aeroporto	avião,voo,companhia aérea,aeroporto
+flight_takeoff	despegue,salidas,aeropuerto	abflug,start	décollage,départs	decollo,partenze	decolagem,partidas
+luggage	equipaje,valija,maleta	gepäck,koffer	bagage,valise	bagaglio,valigia	bagagem,mala
+travel	viaje,viajes,turismo	reise,reisen,urlaub	voyage,voyages,vacances	viaggio,viaggi,vacanze	viagem,viagens,férias
+hotel	hotel,alojamiento,hospedaje	hotel,unterkunft	hôtel,hébergement	albergo,hotel,alloggio	hotel,hospedagem
+bed	cama,dormir,hostal	bett,schlafen	lit,dormir	letto,dormire	cama,dormir
+tour	tour,excursión,paseo,guía	tour,ausflug,führung	visite,excursion,guide	tour,escursione,guida	passeio,excursão,guia
+hiking	caminata,senderismo,trekking	wandern,wanderung	randonnée,marche	escursionismo,camminata	trilha,caminhada
+map	mapa,mapas	karte,karten	carte,plan	mappa,mappe	mapa,mapas
+explore	explorar,brújula	entdecken,kompass	explorer,boussole	esplorare,bussola	explorar,bússola
+local_taxi	taxi,remise,cabify	taxi	taxi	taxi	táxi
+directions_bus	ómnibus,omnibus,bus,colectivo,autobús,transporte	bus,omnibus,nahverkehr	bus,autobus,transport	autobus,bus,trasporto	ônibus,autocarro,transporte
+directions_car	auto,coche,carro,manejar	auto,wagen,fahren	voiture,auto,conduire	auto,macchina,guidare	carro,automóvel,dirigir
+car_rental	alquiler de autos,rent a car	autovermietung,mietwagen	location de voiture	noleggio auto	aluguel de carros
+train	tren,ferrocarril	zug,bahn	train	treno	trem,comboio
+subway	metro,subte,subterráneo	u-bahn,metro	métro	metropolitana,metro	metrô,metro
+directions_bike	bici,bicicleta	fahrrad,rad	vélo,bicyclette	bici,bicicletta	bicicleta,bike
+directions_boat	barco,ferry,buquebus	schiff,fähre,boot	bateau,ferry	nave,traghetto,barca	barco,balsa,navio
+local_shipping	envío,camión,entrega,courier	versand,lieferung,lkw	livraison,camion,colis	spedizione,consegna,camion	entrega,envio,caminhão
+local_gas_station	nafta,gasolina,combustible,estación de servicio	tankstelle,benzin	essence,station-service	benzina,distributore	gasolina,combustível,posto
+local_parking	estacionamiento,parking	parken,parkplatz	parking,stationnement	parcheggio	estacionamento
+account_balance	banco,bancos,homebanking	bank,banking	banque	banca	banco
+payments	pagos,pagar,dinero,efectivo	zahlungen,bezahlen,geld	paiements,payer,argent	pagamenti,pagare,soldi	pagamentos,pagar,dinheiro
+credit_card	tarjeta,tarjeta de crédito,débito	karte,kreditkarte	carte,carte bancaire	carta,carta di credito	cartão,cartão de crédito
+wallet	billetera,cartera,monedero	geldbörse,brieftasche	portefeuille	portafoglio	carteira
+savings	ahorro,ahorros,alcancía	sparen,ersparnisse	épargne,économies	risparmi	poupança,economias
+receipt_long	factura,facturas,recibo,cuentas	rechnung,quittung	facture,reçu	fattura,ricevuta,bollette	fatura,recibo,contas
+currency_exchange	cambio,divisas,moneda	wechsel,währung	change,devises	cambio,valuta	câmbio,moeda
+trending_up	inversiones,bolsa,acciones	investieren,börse,aktien	investissement,bourse	investimenti,borsa	investimentos,bolsa
+shopping_cart	compras,supermercado,carrito	einkaufen,supermarkt	courses,supermarché	spesa,supermercato	compras,supermercado
+shopping_bag	tienda,compras,shopping	shop,laden,einkauf	boutique,achats	negozio,acquisti	loja,compras
+storefront	tienda,comercio,local	geschäft,laden	magasin,commerce	negozio,bottega	loja,comércio
+sell	ofertas,descuentos,promociones	angebote,rabatt	promos,soldes	offerte,sconti	ofertas,descontos
+redeem	regalo,cupón,canje	geschenk,gutschein	cadeau,bon	regalo,buono	presente,cupom
+confirmation_number	entrada,entradas,tickets,boleto	ticket,eintrittskarte	billet,ticket	biglietto,biglietti	ingresso,bilhete
+theater_comedy	teatro,espectáculos	theater,show	théâtre,spectacle	teatro,spettacolo	teatro,espetáculo
+movie	cine,películas	kino,filme	cinéma,films	cinema,film	cinema,filmes
+live_tv	tele,televisión,tv	fernsehen,tv	télé,télévision	tv,televisione	tv,televisão
+music_note	música,canciones	musik,lieder	musique,chansons	musica,canzoni	música,canções
+headphones	auriculares,podcast	kopfhörer,podcast	écouteurs,podcast	cuffie,podcast	fones,podcast
+radio	radio	radio	radio	radio	rádio
+mic	micrófono,grabadora,karaoke	mikrofon,aufnahme	micro,enregistreur	microfono,registratore	microfone,gravador
+piano	piano,teclado	klavier	piano	pianoforte	piano
+sports_esports	juegos,videojuegos,consola	spiele,gaming,konsole	jeux,jeux vidéo,console	giochi,videogiochi	jogos,videogame
+casino	casino,apuestas,dados	casino,wetten	casino,paris	casinò,scommesse	cassino,apostas
+sports_soccer	fútbol,futbol,deporte	fußball,sport	football,foot,sport	calcio,sport	futebol,esporte
+fitness_center	gimnasio,gym,pesas,entrenamiento	fitness,training,studio	salle de sport,musculation	palestra,allenamento	academia,treino
+directions_run	correr,running,carrera	laufen,joggen	course,courir	corsa,correre	correr,corrida
+self_improvement	meditación,yoga,calma	meditation,yoga	méditation,yoga	meditazione,yoga	meditação,ioga
+sports_bar	cerveza,bar,birra,cervecería	bier,kneipe	bière,bar	birra,pub	cerveja,bar,chope
+local_bar	tragos,cócteles,boliche	cocktails,drinks	cocktails,boissons	cocktail,drink	drinks,coquetéis
+wine_bar	vino,vinos,bodega	wein	vin	vino	vinho
+restaurant	restaurante,comida,cena	restaurant,essen	restaurant,repas	ristorante,cibo	restaurante,comida
+takeout_dining	delivery,pedidos,comida a domicilio	lieferdienst,essen bestellen	livraison de repas	consegna cibo,delivery	delivery,entrega de comida
+local_cafe	café,cafetería	kaffee,café	café	caffè,bar	café,cafeteria
+local_pizza	pizza,pizzería	pizza	pizza	pizza,pizzeria	pizza,pizzaria
+bakery_dining	panadería,pan	bäckerei,brot	boulangerie,pain	panetteria,pane	padaria,pão
+icecream	helado,heladería	eis,eisdiele	glace	gelato	sorvete
+cooking	cocina,recetas,cocinar	kochen,rezepte	cuisine,recettes	cucina,ricette	cozinha,receitas
+nutrition	nutrición,dieta,alimentación	ernährung,diät	nutrition,régime	nutrizione,dieta	nutrição,dieta
+timer	temporizador,ayuno,cronómetro	timer,fasten	minuteur,jeûne	timer,digiuno	cronômetro,jejum
+alarm	alarma,despertador	wecker,alarm	alarme,réveil	sveglia,allarme	alarme,despertador
+schedule	reloj,hora,horario	uhr,zeit	horloge,heure	orologio,orario	relógio,horário
+calendar_month	calendario,agenda,eventos	kalender,termine	calendrier,agenda	calendario,agenda	calendário,agenda
+event	evento,cita,reserva	termin,ereignis	événement,rendez-vous	evento,appuntamento	evento,compromisso
+task_alt	tareas,pendientes,checklist	aufgaben,erledigt	tâches,à faire	attività,cose da fare	tarefas,pendências
+sticky_note_2	notas,apuntes	notizen	notes	note,appunti	notas,anotações
+edit_note	notas,escribir,diario	notizen,schreiben,tagebuch	écrire,journal	scrivere,diario	escrever,diário
+description	documentos,archivo,documento	dokumente,dokument	documents,document	documenti,documento	documentos,documento
+folder	carpeta,archivos	ordner,dateien	dossier,fichiers	cartella,file	pasta,arquivos
+folder_zip	zip,comprimido,winzip,rar	zip,archiv	zip,archive	zip,archivio	zip,compactado
+picture_as_pdf	pdf,lector	pdf	pdf	pdf	pdf
+cloud	nube,respaldo	cloud,wolke	nuage,cloud	cloud,nuvola	nuvem
+print	imprimir,impresora	drucken,drucker	imprimer,imprimante	stampare,stampante	imprimir,impressora
+document_scanner	escáner,escanear	scanner,scannen	scanner,numériser	scanner,scansione	scanner,digitalizar
+translate	traductor,traducir,idiomas	übersetzer,übersetzen	traducteur,traduire	traduttore,tradurre	tradutor,traduzir
+school	escuela,estudio,facultad,curso	schule,studium,kurs	école,études,cours	scuola,studio,corso	escola,estudos,curso
+menu_book	libros,lectura,leer	bücher,lesen	livres,lecture	libri,lettura	livros,leitura
+newspaper	noticias,diario,periódico	nachrichten,zeitung	actualités,journal	notizie,giornale	notícias,jornal
+work	trabajo,oficina,empleo	arbeit,büro,job	travail,bureau,emploi	lavoro,ufficio	trabalho,escritório,emprego
+mail	correo,email,mail	mail,e-mail,post	courriel,mail	posta,email	e-mail,correio
+chat	chat,mensajes,conversación	chat,nachrichten	discussion,messages	chat,messaggi	chat,mensagens
+forum	foro,comunidad,grupo	forum,gruppe	forum,communauté	forum,comunità	fórum,comunidade
+call	llamadas,teléfono	anrufe,telefon	appels,téléphone	chiamate,telefono	chamadas,telefone
+sim_card	chip,sim,celular,telefonía,esim	sim,mobilfunk	carte sim,mobile	sim,telefonia	chip,sim,celular
+cell_tower	operadora,señal,red móvil	netz,mobilfunk	opérateur,réseau	operatore,rete	operadora,rede
+wifi	wifi,internet	wlan,internet	wifi,internet	wifi,internet	wi-fi,internet
+router	router,módem	router	routeur,box	router,modem	roteador,modem
+contacts	contactos,agenda	kontakte	contacts	contatti,rubrica	contatos
+groups	grupos,amigos,comunidad	gruppen,freunde	groupes,amis	gruppi,amici	grupos,amigos
+person	perfil,cuenta,usuario	profil,konto	profil,compte	profilo,account	perfil,conta
+badge	identidad,documento,cédula,carné	ausweis,identität	identité,carte	identità,tessera	identidade,documento
+fingerprint	huella,identidad digital,firma	fingerabdruck	empreinte	impronta	digital,impressão digital
+key	llave,contraseñas,claves	schlüssel,passwörter	clé,mots de passe	chiave,password	chave,senhas
+lock	candado,seguridad,bloqueo	schloss,sicherheit	cadenas,sécurité	lucchetto,sicurezza	cadeado,segurança
+shield	seguridad,alarma,protección,vigilancia	sicherheit,schutz	sécurité,protection	sicurezza,protezione	segurança,proteção
+security	seguridad,antivirus	sicherheit,antivirus	sécurité,antivirus	sicurezza,antivirus	segurança,antivírus
+vpn_key	vpn	vpn	vpn	vpn	vpn
+gavel	gobierno,trámites,legal,justicia	behörde,recht	administration,justice	governo,giustizia	governo,justiça
+account_balance_wallet	billetera,pagos,saldo	wallet,guthaben	portefeuille,solde	portafoglio,saldo	carteira,saldo
+local_hospital	hospital,salud,emergencia	krankenhaus,gesundheit	hôpital,santé	ospedale,salute	hospital,saúde
+medical_services	seguro médico,asistencia,salud,mutualista	krankenversicherung,gesundheit	assurance santé,assistance	assicurazione,assistenza	plano de saúde,assistência
+medication	remedios,medicamentos,farmacia	medikamente,apotheke	médicaments,pharmacie	farmaci,farmacia	remédios,farmácia
+monitor_heart	salud,presión,corazón	gesundheit,blutdruck,herz	santé,tension,cœur	salute,pressione,cuore	saúde,pressão,coração
+monitor_weight	balanza,peso	waage,gewicht	balance,poids	bilancia,peso	balança,peso
+spa	spa,bienestar,belleza	wellness,spa	bien-être,spa	benessere,spa	bem-estar,spa
+pets	mascotas,perro,gato	haustiere,hund,katze	animaux,chien,chat	animali,cane,gatto	pets,cachorro,gato
+child_care	bebé,niños	baby,kinder	bébé,enfants	bambino,bambini	bebê,crianças
+home	casa,hogar,inicio	haus,zuhause	maison,domicile	casa	casa,lar
+home_iot_device	casa inteligente,domótica	smart home	maison connectée	casa intelligente	casa inteligente
+lightbulb	luz,ideas,tips	licht,ideen	lumière,idées	luce,idee	luz,ideias
+thermostat	temperatura,aire acondicionado,clima	temperatur,klima	température,climatisation	temperatura,climatizzatore	temperatura,ar-condicionado
+water_drop	agua,ose	wasser	eau	acqua	água
+bolt	luz,electricidad,ute,energía	strom,energie	électricité,énergie	luce,elettricità	energia,eletricidade
+electric_bolt	energía,electricidad	elektrizität	électricité	elettricità	eletricidade
+build	herramientas,reparación,taller	werkzeug,reparatur	outils,réparation	strumenti,riparazione	ferramentas,reparo
+cleaning_services	limpieza	reinigung,putzen	ménage,nettoyage	pulizie	limpeza
+local_laundry_service	lavadero,lavarropas,lavandería	waschmaschine,wäscherei	laverie,lave-linge	lavanderia,lavatrice	lavanderia,máquina de lavar
+real_estate_agent	inmobiliaria,alquiler,casas	immobilien,miete	immobilier,location	immobiliare,affitto	imobiliária,aluguel
+weather_mix	tiempo,clima,pronóstico	wetter,vorhersage	météo,prévisions	meteo,previsioni	tempo,clima,previsão
+sunny	sol,clima	sonne,wetter	soleil,météo	sole,meteo	sol,clima
+eco	ecología,plantas,verde	umwelt,pflanzen	écologie,plantes	ecologia,piante	ecologia,plantas
+park	parque,naturaleza	park,natur	parc,nature	parco,natura	parque,natureza
+photo_camera	cámara,fotos	kamera,fotos	appareil photo,photos	fotocamera,foto	câmera,fotos
+photo_library	galería,fotos,álbum	galerie,fotos	galerie,photos	galleria,foto	galeria,fotos
+image	imagen,editor de fotos	bild,bildbearbeitung	image,retouche	immagine,editor	imagem,editor de fotos
+brush	dibujo,arte,pintura	malen,kunst	dessin,art,peinture	disegno,arte,pittura	desenho,arte,pintura
+palette	diseño,colores,arte	design,farben	design,couleurs	design,colori	design,cores
+videocam	video,videollamada,grabar	video,videoanruf	vidéo,appel vidéo	video,videochiamata	vídeo,videochamada
+smart_display	youtube,videos,streaming	videos,streaming	vidéos,streaming	video,streaming	vídeos,streaming
+qr_code_scanner	qr,código qr,escanear	qr-code,scannen	code qr,scanner	codice qr	qr code,ler qr
+calculate	calculadora,cuentas	rechner,taschenrechner	calculatrice	calcolatrice	calculadora
+straighten	regla,medir	lineal,messen	règle,mesurer	righello,misurare	régua,medir
+settings	ajustes,configuración	einstellungen	paramètres,réglages	impostazioni	configurações,ajustes
+mobile	celular,teléfono,móvil	handy,smartphone	portable,téléphone	cellulare,telefono	celular,telemóvel
+watch	reloj inteligente,smartwatch	smartwatch,uhr	montre connectée	smartwatch,orologio	relógio inteligente
+bluetooth	bluetooth,auriculares	bluetooth	bluetooth	bluetooth	bluetooth
+battery_full	batería,energía	akku,batterie	batterie	batteria	bateria
+storage	almacenamiento,memoria	speicher	stockage	archiviazione	armazenamento
+download	descargas,bajar	downloads,herunterladen	téléchargements	download,scaricare	downloads,baixar
+code	código,programación,hacking,desarrollo	code,programmieren	code,programmation	codice,programmazione	código,programação
+terminal	terminal,consola,hacker	terminal,konsole	terminal,console	terminale,console	terminal,console
+smart_toy	robot,ia,inteligencia artificial,asistente	roboter,ki,assistent	robot,ia,assistant	robot,ia,assistente	robô,ia,assistente
+psychology	mente,psicología,aprender	psychologie,lernen	psychologie,apprendre	psicologia,imparare	psicologia,aprender
+favorite	favoritos,citas,amor	favoriten,liebe,dating	favoris,amour,rencontres	preferiti,amore	favoritos,amor,namoro
+volunteer_activism	donaciones,ayuda,caridad	spenden,hilfe	dons,charité	donazioni,beneficenza	doações,caridade
+church	iglesia,religión	kirche,religion	église,religion	chiesa,religione	igreja,religião
+public	mundo,internet,navegador	welt,browser	monde,navigateur	mondo,browser	mundo,navegador
+language	idiomas,web,sitio	sprachen,web	langues,web	lingue,web	idiomas,web
+search	buscar,búsqueda	suche,suchen	recherche,chercher	cerca,ricerca	busca,pesquisar
+help	ayuda,soporte	hilfe,support	aide,support	aiuto,supporto	ajuda,suporte
+support_agent	atención al cliente,soporte	kundendienst	service client	assistenza clienti	atendimento,suporte
+notifications	notificaciones,avisos	benachrichtigungen	notifications	notifiche	notificações,avisos
+star	estrella,favorito,valoraciones	stern,bewertung	étoile,avis	stella,recensioni	estrela,avaliações
+trophy	premios,trofeo,logros	preise,pokal	récompenses,trophée	premi,trofeo	prêmios,troféu
+park	plaza,parque	park	parc	parco	praça,parque
