@@ -52,7 +52,7 @@ def main():
                 if not url.startswith(BASE_URL + "/"):
                     errors.append(f"{where}: {key} not on {BASE_URL}")
                     continue
-                local = ROOT / url[len(BASE_URL) + 1:]
+                local = ROOT / url[len(BASE_URL) + 1:].split("?")[0]
                 if not local.exists():
                     errors.append(f"{where}: {local.relative_to(ROOT)} missing")
                 urls.append(url)

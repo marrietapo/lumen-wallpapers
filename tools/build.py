@@ -10,6 +10,7 @@ and img/<id>/thumb.webp (540 px wide). The app shows a 9:20-ish window of the ba
 the focus, so the band leaves room for wider and narrower phones.
 """
 import argparse
+import hashlib
 import io
 import json
 import re
@@ -140,7 +141,9 @@ def write(pid, img):
     thumb.save(out / "thumb.webp", "WEBP", quality=74, method=6)
     size = (out / "full.webp").stat().st_size // 1024
     print(f"  {pid}: {img.width}×{img.height}, {size} KB")
-    return f"{BASE_URL}/img/{pid}/full.webp", f"{BASE_URL}/img/{pid}/thumb.webp"
+    # The app keeps what it downloaded by URL, so a redone picture needs a new one.
+    version = hashlib.sha1((out / "full.webp").read_bytes()).hexdigest()[:8]
+    return f"{BASE_URL}/img/{pid}/full.webp?v={version}", f"{BASE_URL}/img/{pid}/thumb.webp?v={version}"
 
 
 def download(url, name):
