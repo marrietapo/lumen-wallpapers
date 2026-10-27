@@ -220,7 +220,19 @@ def matches(src, out):
     b = Image.open(out).convert("RGB").resize((96, 170))
     # Region by region: a dark picture with a black strip still averages close to its source.
     cells = ImageChops.difference(a, b).convert("L").resize((12, 20), Image.BOX)
-    return max(cells.getextrema()) < 40
+    if max(cells.getextrema()) >= 40:
+        return False
+    # Nor its brightest pixels: a black strip over a night sky only loses a few stars.
+    a = Image.open(src).convert("L")
+    b = Image.open(out).convert("L").resize(a.size)
+    w, h = a.size
+    for gy in range(16):
+        for gx in range(4):
+            box = (w * gx // 4, h * gy // 16, w * (gx + 1) // 4, h * (gy + 1) // 16)
+            peak = a.crop(box).getextrema()[1]
+            if peak > 40 and b.crop(box).getextrema()[1] < 0.4 * peak:
+                return False
+    return True
 
 
 def upscaled(f):
